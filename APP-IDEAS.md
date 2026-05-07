@@ -533,4 +533,88 @@ This keeps the ecosystem **consistent, fast, and free to host**.
 - **World Clock** *(previously suggested)* — useful but too narrow for a full app
 - **Portfolio Tracker (SOXL, etc.)** — user already has QuantConnect for this
 - **General AI Chatbot** — crowded; Claude.ai, ChatGPT own this
-- **外卖档案 (takeout.ljding.app)** — fun, unique angle (restaurant memory + social voting), but lower priority than fridge/recipe which form a full food ecosystem
+
+---
+
+## Health & Wellness Apps (Researched 2026-05-07)
+
+> New domain — complements learn.ljding.app (mental) and hangwith.ljding.app (social) by addressing **physical health habits**. Web-first gap: most competitors are mobile-native.
+
+### 🏆 1. 习惯追踪 (streak.ljding.app)
+
+- **中文名**: 习惯追踪
+- **English Name**: Habit Streak Tracker with AI Coaching
+- **Purpose**: Web-first habit accountability with AI micro-coaching. Daily check-ins for health habits, streak visualization, AI-generated nudges.
+- **Why underserved**: Existing tools (Habitica, Streaks) are mobile-first. Web apps for habit tracking are sparse. AI coaching on top of streaks is an untapped combination.
+- **Key Features**:
+  - Daily check-ins for habits (sleep, hydration, exercise, meditation)
+  - Streak tracking with visual progress
+  - AI-generated micro-coaching tips based on user patterns
+  - Weekly progress reports
+  - Accountability buddies from hangwith.ljding.app network
+- **Ecosystem integration**:
+  - learn.ljding.app → "Learn a health topic tied to your active habit"
+  - hangwith.ljding.app → share streaks with accountability buddies
+- **Monetization**: Free (3 habits), $5/mo Pro (unlimited + AI insights)
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + AI (L7 route or similar)
+- **Regulatory risk**: Minimal — wellness coaching, not medical advice
+- **Priority**: **High** (strongest ecosystem fit of all health options)
+- **Feasibility**: Demand 8 | Complexity 4 | Differentiation 7 | Ecosystem Fit 9 | **Total: 28/40**
+
+### 🏆 2. 补剂档案 (stack.ljding.app)
+
+- **中文名**: 补剂档案
+- **English Name**: Supplement & Stack Tracker
+- **Purpose**: Log supplement/vitamin stack, track subjective effects over time, get AI interaction warnings.
+- **Why underserved**: Most people use spreadsheets. No dominant web-based "track + analyze" tool for supplements. Large Reddit community ready (r/supplements, r/nootropics).
+- **Key Features**:
+  - Log supplement stack with dosage/timing
+  - AI-powered interaction warnings (contraindicated combos)
+  - Track subjective effects (energy, sleep, mood) over time
+  - Trend analysis: what's actually working
+- **Monetization**: Free (5 supplements), $7/mo Pro (unlimited + AI + trends)
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + AI interaction check
+- **Regulatory risk**: Low — explicit disclaimers, not medical advice
+- **Priority**: **Medium-High** (strong niche, low competition)
+- **Feasibility**: Demand 7 | Complexity 5 | Differentiation 8 | Ecosystem Fit 5 | **Total: 25/40**
+
+### 🏆 3. 睡眠债务 (sleepdebt.ljding.app)
+
+- **中文名**: 睡眠债务
+- **English Name**: Sleep Debt Dashboard
+- **Purpose**: Quantify cumulative sleep debt, project recovery timeline, AI sleep hygiene suggestions.
+- **Why underserved**: Sleep trackers are hardware-bundled ($300+ rings). Standalone web dashboard for sleep debt analysis is a gap.
+- **Key Features**:
+  - Manual sleep logging OR wearable API sync
+  - Cumulative sleep debt calculation
+  - Recovery projection (how many extra hours to recover)
+  - AI sleep hygiene suggestions based on patterns
+- **Ecosystem integration**:
+  - learn.ljding.app → sleep science educational modules
+  - hangwith.ljding.app → "Sleep Recovery Week" social challenges
+- **Monetization**: Free (basic), $5/mo (debt calc + trends + wearable sync)
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + Wearable API (optional)
+- **Regulatory risk**: Minimal
+- **Priority**: **Medium-High** (clear ecosystem fit)
+- **Feasibility**: Demand 7 | Complexity 4 | Differentiation 7 | Ecosystem Fit 8 | **Total: 26/40**
+
+---
+
+## Updated Recommended Build Sequence (2026-05-07)
+
+||| # | App | Subdomain | Domain | Rationale |
+|---|-----|-----------|--------|-----------|
+||| 1 | 记账分摊 | split.ljding.app | Finance | High utility, proven market, direct synergy with 找谁玩 |
+||| 2 | 室友记 | roommate.ljding.app | Household | High utility, integrates with split |
+||| 3 | 深度工作 | focus.ljding.app | Productivity | High demand, complements learn.ljding.app |
+||| 4 | **习惯追踪** | **streak.ljding.app** | **Health** | **NEW — strongest ecosystem fit, lowest complexity** |
+||| 5 | 冰箱档案 | fridge.ljding.app | Food/Kitchen | Unique web-first gap |
+||| 6 | **睡眠债务** | **sleepdebt.ljding.app** | **Health** | **NEW — complements sleep science education** |
+||| 7 | 睡眠档案 | sleep.ljding.app | Health | Existing plan (similar to sleepdebt — consolidate?) |
+||| 8 | 心情档案 | mood.ljding.app | Health | Feeds into wellness dashboard |
+||| 9 | **补剂档案** | **stack.ljding.app** | **Health** | **NEW — biohacker niche, low competition** |
+||| 10 | 食谱本 | recipe.ljding.app | Food/Kitchen | Complements fridge tracker |
+||| 11 | 身心仪表盘 | wellness.ljding.app | Health | Capstone — ties sleep + mood + activity |
+||| 12 | 小账本 | pocket.ljding.app | Finance | Spending awareness; complements QuantConnect |
+||| 13 | 周复盘 | review.ljding.app | Productivity | Aggregation layer — build after core apps |
+||| 14 | 家务管理 | chore.ljding.app | Household | Long-tail; narrow audience |
