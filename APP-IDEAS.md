@@ -602,19 +602,159 @@ This keeps the ecosystem **consistent, fast, and free to host**.
 
 ## Updated Recommended Build Sequence (2026-05-07)
 
-||| # | App | Subdomain | Domain | Rationale |
+| # | App | Subdomain | Domain | Rationale |
 |---|-----|-----------|--------|-----------|
-||| 1 | 记账分摊 | split.ljding.app | Finance | High utility, proven market, direct synergy with 找谁玩 |
-||| 2 | 室友记 | roommate.ljding.app | Household | High utility, integrates with split |
-||| 3 | 深度工作 | focus.ljding.app | Productivity | High demand, complements learn.ljding.app |
-||| 4 | **习惯追踪** | **streak.ljding.app** | **Health** | **NEW — strongest ecosystem fit, lowest complexity** |
-||| 5 | 冰箱档案 | fridge.ljding.app | Food/Kitchen | Unique web-first gap |
-||| 6 | **睡眠债务** | **sleepdebt.ljding.app** | **Health** | **NEW — complements sleep science education** |
-||| 7 | 睡眠档案 | sleep.ljding.app | Health | Existing plan (similar to sleepdebt — consolidate?) |
-||| 8 | 心情档案 | mood.ljding.app | Health | Feeds into wellness dashboard |
-||| 9 | **补剂档案** | **stack.ljding.app** | **Health** | **NEW — biohacker niche, low competition** |
-||| 10 | 食谱本 | recipe.ljding.app | Food/Kitchen | Complements fridge tracker |
-||| 11 | 身心仪表盘 | wellness.ljding.app | Health | Capstone — ties sleep + mood + activity |
-||| 12 | 小账本 | pocket.ljding.app | Finance | Spending awareness; complements QuantConnect |
-||| 13 | 周复盘 | review.ljding.app | Productivity | Aggregation layer — build after core apps |
-||| 14 | 家务管理 | chore.ljding.app | Household | Long-tail; narrow audience |
+| 1 | 记账分摊 | split.ljding.app | Finance | High utility, proven market, direct synergy with 找谁玩 |
+| 2 | 室友记 | roommate.ljding.app | Household | High utility, integrates with split |
+| 3 | 深度工作 | focus.ljding.app | Productivity | High demand, complements learn.ljding.app |
+| 4 | **习惯追踪** | **streak.ljding.app** | **Health** | **NEW — strongest ecosystem fit, lowest complexity** |
+| 5 | 冰箱档案 | fridge.ljding.app | Food/Kitchen | Unique web-first gap |
+| 6 | **睡眠债务** | **sleepdebt.ljding.app** | **Health** | **NEW — complements sleep science education** |
+| 7 | 睡眠档案 | sleep.ljding.app | Health | Existing plan (similar to sleepdebt — consolidate?) |
+| 8 | 心情档案 | mood.ljding.app | Health | Feeds into wellness dashboard |
+| 9 | **补剂档案** | **stack.ljding.app** | **Health** | **NEW — biohacker niche, low competition** |
+| 10 | 食谱本 | recipe.ljding.app | Food/Kitchen | Complements fridge tracker |
+| 11 | 身心仪表盘 | wellness.ljding.app | Health | Capstone — ties sleep + mood + activity |
+| 12 | 小账本 | pocket.ljding.app | Finance | Spending awareness; complements QuantConnect |
+| 13 | 周复盘 | review.ljding.app | Productivity | Aggregation layer — build after core apps |
+| 14 | 家务管理 | chore.ljding.app | Household | Long-tail; narrow audience |
+
+---
+
+## Finance Domain Research (2026-05-08)
+
+New research identified three finance opportunities with privacy-first, web-first positioning:
+
+### 1. SubAware (subaware.ljding.app) — Subscription Intelligence Dashboard
+
+- **Purpose**: Track and optimize subscription spend without bank linking
+- **Key Insight**: Average person spends $329/mo on 12 subscriptions, underestimates by 2.5x
+- **MVP Timeline**: 3-4 weeks (lowest complexity)
+- **Priority**: Build first — fastest validation, no Plaid dependency
+- **See**: [Full research](./finance-research.md)
+
+### 2. SpendSense (spendsense.ljding.app) — Financial Literacy Through Real Spending
+
+- **Purpose**: Learn personal finance by analyzing your actual spending patterns
+- **Key Insight**: Education apps teach theory, budget apps track money — nothing bridges both
+- **MVP Timeline**: 4-6 weeks
+- **Priority**: Build second — strongest learn.ljding.app integration
+- **See**: [Full research](./finance-research.md)
+
+### 3. HouseFund (housefund.ljding.app) — Shared Household Financial Awareness
+
+- **Purpose**: Help households (roommates, couples) build shared financial awareness beyond bill splitting
+- **Key Insight**: Splitwise tracks debts, nothing manages shared financial life
+- **MVP Timeline**: 6-8 weeks
+- **Priority**: Build third — strongest hangwith.ljding.app integration, most complex
+- **See**: [Full research](./finance-research.md)
+
+---
+
+*Full research details available in [finance-research.md](./finance-research.md)*
+
+---
+
+## Creativity Domain Research (2026-05-10)
+
+New domain explored — not previously covered. Creativity tools complement learn.ljding.app (mental growth) and hangwith.ljding.app (social connection) by addressing **creative expression and ideation**.
+
+### Key Trends Driving Creativity Tools
+1. **Voice interfaces maturing** — Web Speech API reliable cross-browser; voice-first creative tools now viable
+2. **Constrained creativity rising** — Wordle proved appetite for daily bounded creative challenges
+3. **Lo-fi/ambient explosion** — 14M+ lo-fi Girl subscribers; music tools overwhelmingly complex for casual use
+4. **Micro-video dominance** — Loom proved demand; editing remains closed ecosystem or mobile-only
+5. **Scene-based editing** — Keynote-style (not Premiere-style) micro-video underexploited on web
+
+### 1. Verse — verse.ljding.app
+
+- **中文名**: 写作约束
+- **English Name**: Constrained Creative Writing with Daily Prompts
+- **Purpose**: Structured writing tool enforcing creative constraints — daily prompts, word limits, form templates (haiku, six-word memoir, micro-essay) — with anonymous community feed
+- **Why NOW**: Wordle proved bounded creativity works. Long-form tools (Notion, Docs) offer freedom when users need guardrails. No web app combines prompts + constraints + community.
+- **Key Features**:
+  - Daily constrained prompts (word count, form, theme)
+  - Anonymous submission feed
+  - No account required for MVP
+  - learn.ljding.app: writing practice for language learning
+  - hangwith.ljding.app: social layer, collaborative constraint chains
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1
+- **Priority**: **High** (easiest MVP at 5/5, strongest differentiation)
+- **Feasibility**: Demand 7 | Complexity 2 | Differentiation 8 | Ecosystem Fit 8 | **Total: 25/40**
+
+### 2. Riff — riff.ljding.app
+
+- **中文名**: 头脑风暴画布
+- **English Name**: Voice-to-Idea-Map Brainstorming Canvas
+- **Purpose**: AI-powered brainstorming canvas that turns freeform voice rambles into structured idea maps
+- **Why NOW**: Web Speech API mature but no tool bridges voice → organized structure. People think out loud but capture loses translation. Voice-first ideation is genuine whitespace.
+- **Key Features**:
+  - Voice capture → structured idea map via AI
+  - Canvas editor for organizing clusters
+  - learn.ljding.app: knowledge gap visualization for students
+  - hangwith.ljding.app: group brainstorming with real-time merging
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + Web Speech API + LLM API
+- **Priority**: **High** (highest ecosystem fit, strong differentiation)
+- **Feasibility**: Demand 7 | Complexity 4 | Differentiation 9 | Ecosystem Fit 9 | **Total: 29/40**
+
+### 3. Tone — tone.ljding.app
+
+- **中文名**: Lo-Fi 音乐工作坊
+- **English Name**: Lo-fi Loop Creator via Grid Sequencer
+- **Purpose**: Web-based sound sketchpad for lo-fi loops and ambient soundscapes — no musical knowledge required
+- **Why NOW**: Web Audio API mature but underutilized. Lo-fi is dominant background-audio category. BandLab/Soundtrap are full DAWs — overkill for casual vibe building.
+- **Key Features**:
+  - Grid sequencer with curated royalty-free samples
+  - Loop export for video/study use
+  - No musical training needed
+  - montage.ljding.app: audio tracks for micro-videos
+  - learn.ljding.app: study session background audio
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Web Audio API + Tone.js
+- **Priority**: **Medium** (niche but passionate audience)
+- **Feasibility**: Demand 6 | Complexity 6 | Differentiation 8 | Ecosystem Fit 7 | **Total: 27/40**
+
+### 4. Montage — montage.ljding.app
+
+- **中文名**: 微视频编辑器
+- **English Name**: Scene-Based Micro-Video Editor
+- **Purpose**: Browser-based micro-video editor for stitching screen recordings and webcam clips — no timeline, just scenes
+- **Why NOW**: Loom proved quick video demand but closed ecosystem. CapCut mobile-first. Scene-based (Keynote-style) editing underexploited on web. Desktop users creating screen content have no good browser option.
+- **Key Features**:
+  - Scene-based editing (add/reorder/delete scenes)
+  - Screen recording + webcam capture
+  - Text overlays and annotations
+  - Export to MP4 (sub-2-min clips for MVP)
+  - learn.ljding.app: lesson recaps from instructors
+  - hangwith.ljding.app: video responses in social threads
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + MediaRecorder API + WebCodecs
+- **Priority**: **Medium** (highest demand but most complex — defer)
+- **Feasibility**: Demand 8 | Complexity 8 | Differentiation 8 | Ecosystem Fit 8 | **Total: 32/40**
+
+---
+
+## Updated Build Sequence (2026-05-10)
+
+| # | App | Subdomain | Domain | Rationale |
+|---|-----|-----------|--------|-----------|
+| 1 | 记账分摊 | split.ljding.app | Finance | High utility, proven market, direct synergy with 找谁玩 |
+| 2 | 室友记 | roommate.ljding.app | Household | High utility, integrates with split |
+| 3 | 深度工作 | focus.ljding.app | Productivity | High demand, complements learn.ljding.app |
+| 4 | 习惯追踪 | streak.ljding.app | Health | Strongest ecosystem fit, low complexity |
+| 5 | **写作约束** | **verse.ljding.app** | **Creativity** | **NEW — easiest MVP (5/5), direct learn synergy** |
+| 6 | 冰箱档案 | fridge.ljding.app | Food/Kitchen | Unique web-first gap |
+| 7 | 睡眠债务 | sleepdebt.ljding.app | Health | Complements sleep science education |
+| 8 | 睡眠档案 | sleep.ljding.app | Health | Existing plan |
+| 9 | 心情档案 | mood.ljding.app | Health | Feeds into wellness dashboard |
+| 10 | 补剂档案 | stack.ljding.app | Health | Biohacker niche, low competition |
+| 11 | 食谱本 | recipe.ljding.app | Food/Kitchen | Complements fridge tracker |
+| 12 | **头脑风暴画布** | **riff.ljding.app** | **Creativity** | **NEW — highest ecosystem fit (9/10), voice-first differentiation** |
+| 13 | 身心仪表盘 | wellness.ljding.app | Health | Capstone — ties sleep + mood + activity |
+| 14 | 小账本 | pocket.ljding.app | Finance | Spending awareness; complements QuantConnect |
+| 15 | 周复盘 | review.ljding.app | Productivity | Aggregation layer — build after core apps |
+| 16 | Lo-Fi 音乐 | tone.ljding.app | Creativity | Niche but passionate; audio ecosystem build |
+| 17 | 微视频编辑 | montage.ljding.app | Creativity | High demand, technically complex — defer |
+| 18 | 家居记 | home.ljding.app | Household | Narrower audience; long-tail |
+
+---
+
+*Full creativity research available in [creativity-research.md](./creativity-research.md)*
