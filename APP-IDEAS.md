@@ -757,4 +757,216 @@ New domain explored — not previously covered. Creativity tools complement lear
 
 ---
 
+## Travel & Trip Planning Domain (Researched 2026-05-13)
+
+> Full research at `travel-research.md`. Travel planning is dominated by booking-first platforms; the actual *planning* and *coordination* layer is fragmented. Web-native, group-first, privacy-conscious travel tools are a genuine whitespace.
+
+### 1. roam.ljding.app — Content-to-Itinerary Converter
+
+- **中文名**: 行程助手
+- **English Name**: Turn any travel content into an actionable itinerary
+- **Purpose**: Paste a Xiaohongshu post, YouTube video, or blog URL — get a structured itinerary in seconds. Bridges the inspiration-to-plan gap that no current tool addresses.
+- **Key Features**:
+  - URL-to-itinerary AI extraction (Xiaohongshu, TikTok, YouTube, blogs)
+  - Template marketplace — browse and fork community-shared itineraries by destination
+  - Smart adaptation — adjust imported plans for your dates, budget, pace, group size
+  - Bilingual Chinese/English itinerary output
+  - Local tips layer (transit cards, tipping, SIM cards)
+  - Export to Google Calendar, Apple Calendar, PDF, or shareable link
+  - learn.ljding.app: destination language/culture lessons surfaced
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare Workers (LLM content parsing) + D1
+- **Priority**: **Tier 1 — Build First** (lowest complexity, unique hook)
+- **Feasibility**: Demand 8 | Complexity 2 | Differentiation 8 | Ecosystem Fit 7 | **Total: 25/30**
+
+### 2. trip.ljding.app — Collaborative Group Trip Planner
+
+- **中文名**: 旅行规划
+- **English Name**: Group trip planning that actually works for friends
+- **Purpose**: Real-time collaborative itinerary builder with group decision tools, shared packing lists, budget splitting, and offline PWA access.
+- **Key Features**:
+  - Multiplayer itinerary editing (Cloudflare Durable Objects)
+  - Group voting on destinations, restaurants, activities
+  - Shared availability calendar — find dates that work for everyone
+  - Smart packing lists with weather-aware suggestions
+  - Per-person and group expense tracking (integrates with split.ljding.app)
+  - Offline PWA with cached map tiles
+  - Shareable trip links — no account needed to view
+  - hangwith.ljding.app: pull friend groups directly
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + Durable Objects + Mapbox GL JS
+- **Priority**: **Tier 1 — Highest Value** (strongest ecosystem fit, hardest moat)
+- **Feasibility**: Demand 8 | Complexity 7 | Differentiation 9 | Ecosystem Fit 9 | **Total: 33/40**
+
+### 3. wander.ljding.app — Private Travel Journal
+
+- **中文名**: 旅行足迹
+- **English Name**: Private travel journal and memory keeper
+- **Purpose**: Trip timeline from photos (EXIF), check-ins, and notes. World map of everywhere you've been. Privacy-first — nothing public unless you choose.
+- **Key Features**:
+  - Auto-timeline from photo EXIF data + manual entries
+  - World map visualization of travel history
+  - Trip stats: countries, distance, cuisines, patterns
+  - Selective sharing via hangwith.ljding.app
+  - "On this day last year" nostalgia notifications
+  - All content private by default; encrypted storage
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + R2 (photo storage)
+- **Priority**: **Tier 2 — Completes the lifecycle**
+- **Feasibility**: Demand 6 | Complexity 3 | Differentiation 7 | Ecosystem Fit 7 | **Total: 23/30**
+
+### Recommended Build Order
+
+| Rank | App | Rationale |
+|------|-----|-----------|
+| 1 | **roam.ljding.app** | Fastest MVP (weeks), unique hook, bilingual differentiation, viral by nature |
+| 2 | **trip.ljding.app** | Highest long-term value, strongest hangwith synergy, durable moat via group collaboration |
+| 3 | **wander.ljding.app** | Completes the lifecycle (plan → journal); best after trip exists |
+
+---
+
+## Updated Build Sequence (All Domains — 2026-05-14)
+
+| # | App | Subdomain | Domain | Rationale |
+|---|-----|-----------|--------|-----------|
+| 1 | 记账分摊 | split.ljding.app | Finance | High utility, proven market, direct synergy with 找谁玩 |
+| 2 | 深度工作 | focus.ljding.app | Productivity | High demand, complements learn.ljding.app |
+| 3 | 旅行内容转换 | roam.ljding.app | Travel | Fastest MVP, unique hook |
+| 4 | 室友记 | roommate.ljding.app | Household | High utility, integrates with split |
+| 5 | 习惯追踪 | streak.ljding.app | Health | Strongest ecosystem fit, low complexity |
+| 6 | 写作约束 | verse.ljding.app | Creativity | Easiest MVP (5/5), direct learn synergy |
+| 7 | 冰箱档案 | fridge.ljding.app | Food/Kitchen | Unique web-first gap |
+| 8 | 睡眠债务 | sleepdebt.ljding.app | Health | Complements sleep science education |
+| 9 | 旅行规划 | trip.ljding.app | Travel | Highest ecosystem value, group collaboration moat |
+| 10 | 睡眠档案 | sleep.ljding.app | Health | Existing plan |
+| 11 | 心情档案 | mood.ljding.app | Health | Feeds into wellness dashboard |
+| 12 | 补剂档案 | stack.ljding.app | Health | Biohacker niche, low competition |
+| 13 | 食谱本 | recipe.ljding.app | Food/Kitchen | Complements fridge tracker |
+| 14 | 头脑风暴画布 | riff.ljding.app | Creativity | Highest ecosystem fit (9/10), voice-first |
+| 15 | 旅行足迹 | wander.ljding.app | Travel | Completes lifecycle; post-trip journaling |
+| 16 | 身心仪表盘 | wellness.ljding.app | Health | Capstone — ties sleep + mood + activity |
+| 17 | 小账本 | pocket.ljding.app | Finance | Spending awareness; complements QuantConnect |
+| 18 | 周复盘 | review.ljding.app | Productivity | Aggregation layer — build after core apps |
+| 19 | Lo-Fi 音乐 | tone.ljding.app | Creativity | Niche but passionate; audio ecosystem build |
+| 20 | 微视频编辑 | montage.ljding.app | Creativity | High demand, technically complex — defer |
+| 21 | 家居记 | home.ljding.app | Household | Narrower audience; long-tail |
+| 22 | 家庭看板 | family.ljding.app | Parenting | **NEW — broadest parenting audience, strongest hangwith synergy** |
+| 23 | 成长地图 | grow.ljding.app | Parenting | **NEW — highest differentiation, bilingual milestone bridge** |
+| 24 | 宝贝日志 | baby.ljding.app | Parenting | High demand, shares data model with GrowthMap |
+| 25 | 时光册 | moments.ljding.app | Parenting | Most emotionally resonant, highest technical complexity |
+
+---
+
+## Parenting & Family Domain (Researched 2026-05-14)
+
+> New domain — not previously explored. Addresses family coordination, child development tracking, and cross-border bilingual family sharing. Complements learn.ljding.app (learning) and hangwith.ljding.app (social) with a **family** layer. Key insight: no competitor offers web-first + privacy-conscious + bilingual (Chinese-English) + simple + ad-free.
+
+### Key Market Gaps
+- **Privacy-first family coordination** — existing tools are either ad-heavy (Cozi) or surveillance-heavy (FamilyWall, Life360)
+- **Chinese diaspora bilingual tools** — 10M+ Chinese families in US/Canada with no web tool bridging both languages
+- **Cultural milestone integration** — Chinese celebrations (百日宴, 抓周) absent from all Western apps
+- **Cross-border sharing** — sharing with grandparents in China without using mainland-China-hosted services
+
+### 1. 家庭看板 (family.ljding.app)
+
+- **中文名**: 家庭看板
+- **English Name**: FamilyBoard — Shared Family Task & Chore Board
+- **Purpose**: A privacy-first, kanban-style family coordination board for chores, schedules, and daily coordination. No GPS, no surveillance — just shared visibility.
+- **Key Features**:
+  - Shared kanban board: Today / This Week / To-Do / Done columns
+  - Quick-add tasks with assignee and optional due date
+  - Recurring tasks (trash day, piano practice)
+  - Simple meal plan row — "what's for dinner" without recipe complexity
+  - Bilingual UI (Chinese/English) for grandparents
+  - No location tracking, no screen time monitoring
+  - Optional daily digest via shareable link
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + WebSockets
+- **Priority**: **Tier 1 — Build First** (broadest audience, lowest content requirement)
+- **Feasibility**: Demand 8 | Complexity 4 | Differentiation 8 | Ecosystem Fit 8 | **Total: 28/40**
+
+### 2. 成长地图 (grow.ljding.app)
+
+- **中文名**: 成长地图
+- **English Name**: GrowthMap — Bilingual Developmental Milestone Tracker
+- **Purpose**: Track child milestones with bilingual guidance bridging Western WHO and Chinese pediatric frameworks. Includes age-appropriate activity suggestions in both languages.
+- **Key Features**:
+  - Visual milestone timeline: motor, language, cognitive, social-emotional
+  - Bilingual milestone descriptions (WHO + Chinese pediatric context)
+  - "What to try this week" — 2-3 bilingual activity suggestions
+  - Cultural milestone integration (百日宴, 抓周, first haircut traditions)
+  - Photo + note journal per milestone
+  - Shareable visual timeline for grandparents
+  - Anti-anxiety design: "every child develops at their own pace"
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + R2
+- **Priority**: **Tier 1 — Highest Differentiation** (bilingual milestone bridge is genuinely unique)
+- **Feasibility**: Demand 7 | Complexity 4 | Differentiation 9 | Ecosystem Fit 9 | **Total: 29/40**
+
+### 3. 宝贝日志 (baby.ljding.app)
+
+- **中文名**: 宝贝日志
+- **English Name**: BabyLog — Privacy-First Baby Tracking
+- **Purpose**: One-tap logging for feed, sleep, diaper, and milestones. Works offline, no account required to start, caregiver sharing via unique link.
+- **Key Features**:
+  - One-tap logging: breast/bottle/solid feed, sleep, diaper, medication
+  - Offline-first via service worker; syncs when online
+  - Shareable caregiver link — no account needed to view or log
+  - Bilingual UI toggle with bilingual milestone descriptions
+  - Growth charts (height/weight/head) with percentile curves
+  - Daily/weekly summary: "today baby ate X times, slept Y hours"
+  - Chinese cultural milestones (百日, 抓周) included
+  - JSON/CSV export; data in Cloudflare D1 under user control
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + Service Workers
+- **Priority**: **Tier 2** (build after GrowthMap to share data model)
+- **Feasibility**: Demand 9 | Complexity 3 | Differentiation 7 | Ecosystem Fit 7 | **Total: 26/40**
+
+### 4. 时光册 (moments.ljding.app)
+
+- **中文名**: 时光册
+- **English Name**: MomentsBook — Private Family Photo Journal
+- **Purpose**: Ad-free, bilingual family photo journal with cross-border sharing optimization. No social media, no upsells — just private family memories.
+- **Key Features**:
+  - Chronological photo journal with child age auto-calculation
+  - Private sharing via link — no viewer account needed (grandparents just bookmark)
+  - Bilingual captions — English with optional Chinese translation
+  - CDN optimized for slow China connections
+  - Simple reactions (❤️) for viewer engagement
+  - No ads, no print shop, no merchandise upsells
+  - PDF yearbook export for local printing
+- **Tech Stack**: Vue 3 + Vite + TailwindCSS + Cloudflare D1 + R2 + Images
+- **Priority**: **Tier 2** (highest technical complexity — image pipeline)
+- **Feasibility**: Demand 8 | Complexity 5 | Differentiation 7 | Ecosystem Fit 6 | **Total: 26/40**
+
+### Parenting Domain Recommended Build Order
+
+| Rank | App | Score | Rationale |
+|------|-----|-------|-----------|
+| 1 | 家庭看板 (family.ljding.app) | 28 | Broadest audience, establishes family data model, fastest to MVP |
+| 2 | 成长地图 (grow.ljding.app) | 29 | Highest differentiation, bilingual white space, content layer on family model |
+| 3 | 宝贝日志 (baby.ljding.app) | 26 | High demand, shares child profile model with GrowthMap |
+| 4 | 时光册 (moments.ljding.app) | 26 | Most emotionally resonant; build last for image pipeline maturity |
+
+---
+
 *Full creativity research available in [creativity-research.md](./creativity-research.md)*
+*Full travel research available in [travel-research.md](./travel-research.md)*
+*Full parenting research available in [parenting-research.md](./parenting-research.md)*
+
+---
+
+## Social Accountability / Habit Accountability Apps (Researched 2026-05-17)
+
+> New domain — bridges the gap between personal habit tracking and social accountability. The habit tracking market is $14.94B (2026) growing to $50.21B by 2035. Social accountability achieves 76% success vs 43% solo (StickK data). Key gap: no web-first, privacy-focused, Chinese-bilingual accountability app exists.
+
+### Recommended Build Order
+
+|| Rank | App | Subdomain | MVP Ease | Rationale |
+||------|-----|-----------|----------|-----------|
+|| 1 | 打卡圈 (DǎKǎ Quān) | daka.ljding.app | 5/5 | Lowest complexity, highest demand (打卡 culture), natural viral invite loop, privacy-first differentiator |
+|| 2 | 督伴 (DūBàn) | duban.ljding.app | 3/5 | 1:1 accountability partner matching with configurable stakes, builds on daka infrastructure |
+
+### Tier 2: Explore Later
+
+|| Rank | App | Subdomain | MVP Ease | Rationale |
+||------|-----|-----------|----------|-----------|
+|| 3 | 共进 (GòngJìn) | gongjin.ljding.app | 3/5 | Couples/family goal sync — highest differentiation but smaller target audience |
+|| 4 | 约定 (YuēDìng) | yuedin.ljding.app | 2/5 | Commitment contracts with payment stakes — most complex, best as premium layer |
+|| 5 | 醒我 (XǐngWǒ) | xingwo.ljding.app | 2/5 | Wake-up accountability — niche focus, good integration with sleep.ljding.app |
+
+*Full social accountability research available in [social-accountability-research.md](./social-accountability-research.md)*
