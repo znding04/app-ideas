@@ -26,6 +26,7 @@ Domains ranked by opportunity score (research completed or pending).
 || **Sleep & Recovery** | 79/100 | High | High | Strong (web-first gap, bilingual sleep content, shift worker niche) | ✅ Researched (2026-05-15) |
 | **Knowledge & PKM** | 83/100 | High | High | Strong (web-first gap, bilingual PKM white space, learn.ljding.app synergy) | ✅ Researched (2026-05-16) |
 | **Social Accountability** | 81/100 | High | High | Strong (web-first gap, Chinese-bilingual, 打卡 culture, hangwith synergy) | ✅ Researched (2026-05-17) |
+| **Mindfulness & Spiritual** | 84/100 | High | High | Strong (web-first bilingual gap, privacy-first, sleep/learn integration) | ✅ Researched (2026-05-21) |
 
 ### Scoring Criteria
 - **Opportunity Score**: Composite of Market Demand (30%), Feasibility (25%), Differentiation (25%), Strategic Fit (20%)
