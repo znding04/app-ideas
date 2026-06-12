@@ -1,8 +1,8 @@
 # App Ideas Priority Ranking
 
-> Last updated: 2026-06-08 (Communication added 2026-06-08)
+> Last updated: 2026-06-12 (Relationships & Network Maintenance session 23 — nurture, keepclose, circles, together, weave added 2026-06-12)
 > Scoring: 1-5 per category (5 = best), max total = 20
-> Domains covered: Productivity (session 1), Health & Wellness (session 2), Mindfulness & Spiritual (session 3), Education (session 4), Career (session 5), Creativity (session 6), Finance (session 7), Sleep & Recovery (session 8), Social/Community (session 9), Food & Kitchen (session 10), Travel (session 11), Decision-Making (session 12), Parenting (session 13), Knowledge/PKM (session 14), Legal Navigation (session 15), Relationships/Dating (session 16), Environmental/Green Living (session 17), Gaming/Entertainment (session 18), Sports & Fitness (session 19), **Communication (session 20)**
+> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**
 
 ## Overall Rankings
 
@@ -16,6 +16,14 @@
 | 4 | **Tidbit** — Frictionless capture-to-knowledge pipeline | tidbit.ljding.app | 4 | 3 | 4 | 5 | **16** |
 | 5 | **Review** — AI output quality gate | review.ljding.app | 4 | 5 | 4 | 3 | **16** |
 | 6 | **Tempo** — Energy-aware personal scheduling | tempo.ljding.app | 3 | 4 | 4 | 4 | **15** |
+
+### Productivity Domain — Session 21 (2026-06-09)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 20 | **Verdict** — Temporal decision journal with 30/90/180-day revisit loops | verdict.ljding.app | 5 | 4 | 4 | 5 | **18** |
+| 21 | **Cadence** — Adaptive ritual-stacking engine with energy curve tracking | cadence.ljding.app | 4 | 4 | 4 | 5 | **17** |
+| 22 | **Switchboard** — Context-switching cost tracker with fragmentation heatmap | switchboard.ljding.app | 4 | 5 | 4 | 4 | **17** |
 
 ### Health & Wellness Domain (2026-05-20)
 
@@ -41,12 +49,15 @@
 |------------|-----|--------|-----------|:---------:|
 | 1 | **Drift** | Productivity | drift.ljding.app | **18** |
 | 1 | **静心 (JingXin)** | Mindfulness | jingxin.ljding.app | **18** |
-| 3 | **Compass** | Productivity | compass.ljding.app | **17** |
-| 3 | **Handoff** | Productivity | handoff.ljding.app | **17** |
-| 3 | **Radar** | Wellness | radar.ljding.app | **17** |
-| 3 | **心情簿 (XinQingBu)** | Mindfulness | xinqing.ljding.app | **17** |
-| 3 | **吐纳 (TuNa)** | Mindfulness | tuna.ljding.app | **17** |
-| 3 | **同修 (TongXiu)** | Mindfulness | tongxiu.ljding.app | **17** |
+| 1 | **Verdict** | Productivity | verdict.ljding.app | **18** |
+| 4 | **Compass** | Productivity | compass.ljding.app | **17** |
+| 4 | **Handoff** | Productivity | handoff.ljding.app | **17** |
+| 4 | **Radar** | Wellness | radar.ljding.app | **17** |
+| 4 | **心情簿 (XinQingBu)** | Mindfulness | xinqing.ljding.app | **17** |
+| 4 | **吐纳 (TuNa)** | Mindfulness | tuna.ljding.app | **17** |
+| 4 | **同修 (TongXiu)** | Mindfulness | tongxiu.ljding.app | **17** |
+| 4 | **Cadence** | Productivity | cadence.ljding.app | **17** |
+| 4 | **Switchboard** | Productivity | switchboard.ljding.app | **17** |
 | 9 | **Tidbit** | Productivity | tidbit.ljding.app | **16** |
 | 9 | **Review** | Productivity | review.ljding.app | **16** |
 | 9 | **Stack** | Wellness | stack.ljding.app | **16** |
@@ -1384,9 +1395,205 @@
 
 ---
 
-## Next Domain to Explore
-- **Identity/Documentation** — passport renewal helpers, dual citizenship tools, document expiration tracker
-- **Home/Real Estate** — cross-border property management, housemates finder, rent-split for diaspora
-- **Pet** — pet tracking for families that shuttle between US and China, pet-friendly travel
-- **Home Services** — handyman matching for diaspora homeowners, culturally-aware service referrals
+## Pet Domain (2026-06-10)
 
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Ecosystem Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:-------------:|:---------:|
+| 1 | **PawPort** — Cross-border pet relocation navigator | pawport.ljding.app | 5 | 5 | 4 | 4 | **18** |
+| 2 | **PetBridge** — Shared care dashboard for split families | petbridge.ljding.app | 4 | 5 | 3 | 5 | **17** |
+| 2 | **PetPal** — Bilingual pet sitter network | petpal.ljding.app | 3 | 4 | 5 | 5 | **17** |
+| 2 | **PetKnow** — Location-aware pet ownership guide | petknow.ljding.app | 5 | 4 | 3 | 5 | **17** |
+| 5 | **PetRecord** — Bilingual digital vet records | petrecord.ljding.app | 3 | 5 | 4 | 4 | **16** |
+| 5 | **PetRoute** — Pet-friendly travel planner | petroute.ljding.app | 4 | 4 | 4 | 4 | **16** |
+| 5 | **PetMind** — AI bilingual pet symptom checker | petmind.ljding.app | 3 | 5 | 4 | 4 | **16** |
+
+### Scoring Rationale (Pet Apps)
+
+#### PawPort (18/20) — Recommended #1 Pet App
+- **Feasibility 5/5**: Content-driven app, regulation database + interactive timeline + document checklist. 3-4 weeks MVP. No complex integrations.
+- **Differentiation 5/5**: No competitor in this space at all. PetRelocation charges $3K-8K with no self-service alternative. Bilingual EN/ZH is completely novel.
+- **Monetization 4/5**: Freemium checklist + paid premium (vet finder, document templates, airline comparison). Free tier captures pet owners during relocation stress = natural upgrade moment.
+- **Domain Fit 4/5**: Moderate — travel-specific, but connects to hangwith.ljding.app (community Q&A) and learn.ljding.app (pet regulation education).
+
+#### PetBridge (17/20)
+- **Feasibility 4/5**: Real-time sync + push notifications + media handling. 4-5 weeks MVP. Moderate complexity.
+- **Differentiation 5/5**: Nothing like this exists. Split-household families are common in diaspora but have zero tooling beyond WeChat photo dumps.
+- **Monetization 3/5**: Freemium with premium (video calls, vet record storage, multi-pet). Lower ceiling — but family subscription model works.
+- **Domain Fit 5/5**: Excellent — natural hangwith.ljding.app extension (family coordination). Pet care tips for elderly caregivers in their language.
+
+#### PetPal (17/20)
+- **Feasibility 3/5**: Marketplace dynamics + trust/safety + payments. 5-6 weeks MVP. Hardest pet concept to bootstrap.
+- **Differentiation 4/5**: Bilingual sitter network is unique. Rover is English-only US-only. WeChat groups are unverified.
+- **Monetization 5/5**: Service fees on bookings + premium sitter features. Strongest monetization of any pet concept.
+- **Domain Fit 5/5**: hangwith.ljding.app social graph is a moat for trust/vouching. Direct fit for community trust features.
+
+#### PetKnow (17/20)
+- **Feasibility 5/5**: Content-driven, straightforward build. 3-4 weeks MVP. Simplest tech complexity in pet domain.
+- **Differentiation 4/5**: Bilingual + location-aware pet guide is unique. Information is currently scattered across Reddit/Xiaohongshu/outdated blogs.
+- **Monetization 3/5**: Ad-supported + sponsored vet listings + premium city guides. Lower ceiling but steady revenue.
+- **Domain Fit 5/5**: Excellent — natural learn.ljding.app content hub, hangwith.ljding.app community contributions, pawport.ljding.app pre-arrival prep.
+
+#### PetRecord (16/20)
+- **Feasibility 3/5**: Compliance rules engine + OCR for vet records + regulation updates. 5-6 weeks MVP.
+- **Differentiation 5/5**: No bilingual pet health record tool exists. USDA VEHCS is government-facing not consumer-friendly.
+- **Monetization 4/5**: Subscription for compliance checking + document generation + multi-pet. Good revenue potential.
+- **Domain Fit 4/5**: Connects to pawport.ljding.app (relocation workflow) and learn.ljding.app (vaccination schedules).
+
+#### PetRoute (16/20)
+- **Feasibility 4/5**: Data aggregation (airline policies, hotels, quarantine rules). 4-5 weeks MVP.
+- **Differentiation 4/5**: Bilingual + US-China corridor is unique. BringFido only covers US domestic. No tool covers transpacific pet travel.
+- **Monetization 4/5**: Affiliate revenue from hotels/airlines + premium route planning. Solid revenue model.
+- **Domain Fit 4/5**: pawport.ljding.app (travel→relocation), hangwith.ljding.app (community reviews of pet-friendly places).
+
+#### PetMind (16/20)
+- **Feasibility 3/5**: AI/LLM integration + medical liability disclaimers + bilingual NLP. 4-5 weeks MVP.
+- **Differentiation 5/5**: Bilingual pet symptom checker is genuinely novel. No equivalent exists for human or pet.
+- **Monetization 4/5**: Freemium with premium AI consultations + vet appointment booking. Good upgrade path.
+- **Domain Fit 4/5**: petrecord.ljding.app (symptoms→health record), learn.ljding.app (pet health education), petbridge.ljding.app (share vet summaries).
+
+### Recommended Build Order (Pet Domain)
+1. **PawPort** — Highest score, fastest MVP, content-driven, no marketplace dynamics. Establishes pet category authority.
+2. **PetKnow** — Fast MVP (3-4 weeks), builds content foundation, strong ecosystem ties, lowest risk.
+3. **PetBridge** — High emotional value, unique positioning, moderate build. Natural next after PawPort.
+4. **PetPal** — Strongest monetization but marketplace = hardest to bootstrap. Best after hangwith user base grows.
+5. **PetRecord + PetRoute + PetMind** — Build as ecosystem matures, each needs category validation first.
+
+**Ecosystem play:** PawPort → PetKnow → PetBridge creates natural funnel: *plan your move* → *learn your new city's rules* → *stay connected with your pet across borders*.
+
+---
+
+## Home/Real Estate Domain (2026-06-11)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 1 | **JiaYou (家有)** — Cross-border property manager for diaspora owners | jiayou.ljding.app | 4 | 5 | 4 | 5 | **18** |
+| 2 | **ZhuJia (筑家)** — Culturally-aware home services referrals | zhujia.ljding.app | 4 | 5 | 4 | 4 | **17** |
+| 3 | **RoomBridge** — Culturally-aware housemates finder | bridge.ljding.app | 4 | 5 | 3 | 4 | **16** |
+| 3 | **SplitHome** — Diaspora rent and expense splitter | splithome.ljding.app | 5 | 4 | 3 | 4 | **16** |
+| 5 | **GuWai (估外)** — Cross-border property investment advisor | guwai.ljding.app | 3 | 5 | 3 | 4 | **15** |
+| 5 | **FamilyFloor** — Multigenerational home configuration advisor | floor.ljding.app | 4 | 4 | 3 | 4 | **15** |
+
+### Scoring Rationale (Home/Real Estate Apps)
+
+#### JiaYou (家有) (18/20) — Recommended #1 Home App
+- **Feasibility 4/5**: Property listings + maintenance tracking + rent collection via international transfer APIs + property manager network. 5-7 weeks MVP. D1 for listings/tickets, Workers for API integrations.
+- **Differentiation 5/5**: No tool exists for end-to-end US-China cross-border property management. WeChat/phone is current state. Lianjia/Beike are China-domestic only. Completely unserved white space.
+- **Monetization 4/5**: 3-5% management fee on rent collected is proven property management model. Target market has high willingness to pay for professional management. Additional revenue: tenant placement fee (1 month rent), premium tax prep support.
+- **Domain Fit 5/5**: Directly serves diaspora families with property in China. High integration with learn.ljding.app (property education content) and finance domain (TaxTwin cross-border tax tools).
+
+#### ZhuJia (筑家) (17/20) — Recommended #2 Home App
+- **Feasibility 4/5**: Contractor directory + license verification + crowdsourced reviews + RFQ system. 4-6 weeks MVP. License verification via state APIs is straightforward.
+- **Differentiation 5/5**: Diaspora trust signals + bilingual contractor discovery. Thumbtack/Angi are EN-only. WeChat group referrals lack accountability and verification. Clear white space.
+- **Monetization 4/5**: Contractor paid profiles ($20-50/mo), lead generation fees ($5-15/qualified lead). Dual-sided marketplace with strong contractor willingness to pay.
+- **Domain Fit 4/5**: Strong integration with home services needs of diaspora homeowners. Connects to ZhuJia (home configuration), SplitHome (renovation cost splitting), and GuWai (cross-border investment).
+
+#### RoomBridge (16/20)
+- **Feasibility 4/5**: Profile matching + trust scoring + bilingual interface + group matching. 4-5 weeks MVP. Trust scoring for thin-file users (new immigrants without US credit) is novel.
+- **Differentiation 5/5**: Cultural compatibility matching beyond price/location demographics. No bilingual cross-cultural roommate finder exists. Zhaoyong is China-focused only.
+- **Monetization 3/5**: Freemium ($5-15/mo premium matching). Lower ceiling — roommate finder category is commoditized. Network effects help.
+- **Domain Fit 4/5**: Natural fit for young diaspora professionals. Integration with hangwith.ljding.app (social matching) and learn.ljding.app (student housing).
+
+#### SplitHome (16/20)
+- **Feasibility 5/5**: Variable split configs + family contribution tracking + multi-currency + international transfer API. 3-4 weeks MVP. Simplest technical scope in domain.
+- **Differentiation 4/5**: Designed for diaspora complexity — multigenerational contributions, international transfers, variable income-proportion splits. Splitwise handles simple splits only.
+- **Monetization 3/5**: $3-5/mo for multi-currency and international features. Lower monetization ceiling but high engagement for target audience.
+- **Domain Fit 4/5**: Strong SplitPact alignment (couples/family expense tracking). Family financial dynamics fit with GongJin (family goal sync) ecosystem.
+
+#### GuWai (估外) (15/20)
+- **Feasibility 3/5**: Educational content + calculators + lawyer registry + community Q&A. 6-8 weeks MVP. Content sourcing and regulatory accuracy are the complex parts.
+- **Differentiation 5/5**: No tool covers bilingual cross-border investment decision space. First structured EN/ZH resource for US-China property investment.
+- **Monetization 3/5**: $10-20/mo for premium calculators, tax tools, consultation matching. Lower volume but high-intent audience.
+- **Domain Fit 4/5**: learn.ljding.app integration for property investment education. TaxTwin integration for cross-border tax complexity.
+
+#### FamilyFloor (15/20)
+- **Feasibility 4/5**: Housing search filters + household configuration quiz + renovation guides + contractor matching. 4-5 weeks MVP.
+- **Differentiation 4/5**: No tool addresses multigenerational diaspora household configuration. General real estate tools don't filter for diaspora-specific needs.
+- **Monetization 3/5**: $5-10/mo premium for renovation tools + contractor matching. Lower ceiling but strong emotional value.
+- **Domain Fit 4/5**: Connects to ZhuJia (home services), GuWai (investment), and parenting domain (multigenerational living).
+
+---
+
+## Home Services Domain — Next to explore
+
+## Relationships & Network Maintenance Domain (Session 23, 2026-06-12)
+
+### Grand Total Rankings — Session 23 Update
+
+| Grand Rank | App | Domain | Subdomain | **Total** |
+|------------|-----|--------|-----------|:---------:|
+| 1 | **Drift** | Productivity | drift.ljding.app | **18** |
+| 1 | **静心 (JingXin)** | Mindfulness | jingxin.ljding.app | **18** |
+| 1 | **Verdict** | Productivity | verdict.ljding.app | **18** |
+| 1 | **nurture** | Relationships | nurture.ljding.app | **18** |
+| 5 | **Compass** | Productivity | compass.ljding.app | **17** |
+| 5 | **Handoff** | Productivity | handoff.ljding.app | **17** |
+| 5 | **Radar** | Wellness | radar.ljding.app | **17** |
+| 5 | **心情簿 (XinQingBu)** | Mindfulness | xinqing.ljding.app | **17** |
+| 5 | **吐纳 (TuNa)** | Mindfulness | tuna.ljding.app | **17** |
+| 5 | **同修 (TongXiu)** | Mindfulness | tongxiu.ljding.app | **17** |
+| 5 | **Cadence** | Productivity | cadence.ljding.app | **17** |
+| 5 | **Switchboard** | Productivity | switchboard.ljding.app | **17** |
+| 5 | **keepclose** | Relationships | keepclose.ljding.app | **17** |
+| 5 | **circles** | Relationships | circles.ljding.app | **17** |
+| 14 | **Tidbit** | Productivity | tidbit.ljding.app | **16** |
+| 14 | **Review** | Productivity | review.ljding.app | **16** |
+| 14 | **Stack** | Wellness | stack.ljding.app | **16** |
+| 14 | **together** | Relationships | together.ljding.app | **16** |
+| 14 | **weave** | Relationships | weave.ljding.app | **16** |
+| 19 | **Tempo** | Productivity | tempo.ljding.app | **15** |
+| 19 | **StressMap** | Wellness | stressmap.ljding.app | **15** |
+| 19 | **禅修 (ChanXiu)** | Mindfulness | chanxiu.ljding.app | **15** |
+
+### Relationships Domain Session 23 Rankings
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 23 | **nurture** | nurture.ljding.app | 5 | 4 | 4 | 5 | **18** |
+| 24 | **keepclose** | keepclose.ljding.app | 4 | 5 | 4 | 4 | **17** |
+| 25 | **circles** | circles.ljding.app | 4 | 5 | 4 | 4 | **17** |
+| 26 | **together** | together.ljding.app | 3 | 5 | 4 | 4 | **16** |
+| 27 | **weave** | weave.ljding.app | 3 | 5 | 4 | 4 | **16** |
+
+## Scoring Rationale (Relationships Apps)
+
+### nurture (18/20) — Recommended #1 Relationships App
+- **Feasibility 5/5**: Contact management, cadence reminders, touchpoint logging, weekly digest. 3-4 weeks MVP. PWA-first with no complex backend.
+- **Differentiation 4/5**: Intentionally simple — no sales pipeline metaphors, no LinkedIn dependency. Covers ALL relationship types (personal + professional). Web-first PWA is unique in this space.
+- **Monetization 4/5**: Freemium $5/mo for unlimited contacts + advanced reminders. Low friction, reasonable conversion path.
+- **Domain Fit 5/5**: Strongest ecosystem integration of the session. Auto-logs hangouts from hangwith, integrates with learn for study buddy tracking. Natural relationship layer on top of social activity data.
+
+### keepclose (17/20)
+- **Feasibility 4/5**: Memory journal, AI suggestions, date tracking, voice notes, local-first storage. 4-5 weeks MVP. AI integration adds complexity.
+- **Differentiation 5/5**: Private personal context (not public data). "How's your mom's recovery?" not "job change alert." Local-first with optional encrypted sync — genuinely privacy-respecting.
+- **Monetization 4/5**: Free core with local storage, $6/mo for cloud backup + AI features. Clear premium tier separation.
+- **Domain Fit 4/5**: Pre-hangout briefing from hangwith, topic interests from learn. High integration value within ecosystem.
+
+### circles (17/20)
+- **Feasibility 4/5**: Dunbar's number visualization, health scoring algorithm, drift alerts, monthly reports. 4-5 weeks MVP. Health algorithm needs validation.
+- **Differentiation 5/5**: Relationship health analytics grounded in social psychology. No existing app does this. Clay tracks professional ROI; this tracks emotional/social well-being.
+- **Monetization 4/5**: Freemium $7/mo for full network + reports + goals. Lower ceiling but engaged user base.
+- **Domain Fit 4/5**: hangwith data feeds into health scores (in-person weighted higher). learn.ljding.app integration for co-learning relationship tracking.
+
+### together (16/20)
+- **Feasibility 3/5**: Real-time sync for shared contacts, coordinated touchpoints, shared gift tracker, joint calendar. 5-6 weeks MVP. Multi-user sync adds complexity.
+- **Differentiation 5/5**: No app helps couples/groups manage their external relationships together. "We should have the Johnsons over" use case is completely unserved.
+- **Monetization 4/5**: $8/mo per shared space for unlimited contacts + gift tracking + calendar. Natural fit for couples who want to share social management.
+- **Domain Fit 4/5**: Deep hangwith integration for shared hangout planning. learn.ljding.app for couple/group learning goals.
+
+### weave (16/20)
+- **Feasibility 3/5**: Interest tagging, match algorithm, intro templates, karma scoring, network visualization. 5-6 weeks MVP. Match algorithm complexity.
+- **Differentiation 5/5**: Outward-focused — help your contacts connect with each other. No existing personal tool does this. Taps into super-connector archetype.
+- **Monetization 4/5**: Freemium $9/mo for unlimited + AI matching + analytics. High value for active connectors.
+- **Domain Fit 4/5**: Group hangout suggestions from hangwith. Learn.ljding.app for mentorship/study group matching.
+
+---
+
+## Next Domain to Explore
+
+Potential domains not yet covered:
+- **Navigation/Wayfinding** (local navigation, not travel)
+- **Music/Audio** (playlist management, audio visualization)
+- **News/RSS** (content aggregation, reading tracking)
+- **Photo/Image** (organization, sharing)
+- **Card Games / Board Games** (multiplayer gaming)
+- **Gift Giving** (gift tracking, wishlists, occasions)
