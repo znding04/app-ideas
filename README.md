@@ -16,17 +16,22 @@ Domains ranked by opportunity score (research completed or pending).
 | Domain | Opportunity Score | Demand | Feasibility | Differentiation | Status |
 |--------|-------------------|--------|-------------|------------------|--------|
 | **Productivity** | 85/100 | High | High | Strong (complements learn, distinct from hangwith) | ✅ Researched |
-| **Finance** | 82/100 | High | High | Strong (privacy-first gap, web-first whitespace) | ✅ Researched |
-| **Career** | 78/100 | High | High | Strong (web-native, privacy-first, Chinese-language gap) | ✅ Researched |
-| **Food & Kitchen** | 78/100 | High | High | Web-first gap, Chinese-language underserved | ✅ Researched (2026-05-12) |
+| **Finance** | 82/100 | High | High | Strong (privacy-first gap, web-first whitespace, bilingual diaspora) | ✅ Researched (2026-05-25) |
+| **Career** | 78/100 | High | High | Strong (web-native, privacy-first, Chinese-language gap) | ✅ Researched (2026-05-23) |
+| **Food & Kitchen** | 78/100 | High | High | Web-first gap, Chinese-language underserved | ✅ Scored (2026-05-28) |
 | **Health & Wellness** | 75/100 | High | Medium | Strong niche focus; AI coaching opportunity | ✅ Researched (2026-05-07) |
 | **Creativity** | 72/100 | Medium | High | Strong differentiation (Verse, Riff, Tone, Montage) | ✅ Researched (2026-05-10) |
 | **Travel & Trip Planning** | 80/100 | High | High | Strong (web-first gap, Chinese-language underserved, social travel) | ✅ Researched (2026-05-13) |
 | **Parenting & Family** | 77/100 | High | High | Strong (bilingual gap, anti-surveillance, Chinese diaspora) | ✅ Researched (2026-05-14) |
-|| **Sleep & Recovery** | 79/100 | High | High | Strong (web-first gap, bilingual sleep content, shift worker niche) | ✅ Researched (2026-05-15) |
+|| **Sleep & Recovery** | 79/100 | High | High | Strong (web-first gap, bilingual sleep content, shift worker niche) | ✅ Scored (2026-05-26) |
 | **Knowledge & PKM** | 83/100 | High | High | Strong (web-first gap, bilingual PKM white space, learn.ljding.app synergy) | ✅ Researched (2026-05-16) |
 | **Social Accountability** | 81/100 | High | High | Strong (web-first gap, Chinese-bilingual, 打卡 culture, hangwith synergy) | ✅ Researched (2026-05-17) |
 | **Mindfulness & Spiritual** | 84/100 | High | High | Strong (web-first bilingual gap, privacy-first, sleep/learn integration) | ✅ Researched (2026-05-21) |
+| **Education & Learning** | 83/100 | High | High | Strong (web-first SRS gap, bilingual EN/ZH, learn.ljding.app synergy) | ✅ Researched (2026-05-22) |
+| **Communication** | 81/100 | High | High | Strong (web-first gap, Chinese-bilingual, voice-first diaspora) | ✅ Researched (2026-06-04) |
+| **Identity/Documentation** | 82/100 | High | High | Strong (web-first gap, bilingual EN/ZH, privacy-first, diaspora document pain) | ✅ Researched (2026-06-05) |
+| **Gaming/Entertainment** | 80/100 | High | High | Strong (web-first gap, Chinese-bilingual, cultural connection, mahjong/idiom/trivia white space) | ✅ Researched (2026-06-06) |
+| **Home Services** | 82/100 | High | High | Strong (bilingual contractor matching, diaspora-specific gaps, web-first white space) | ✅ Researched (2026-06-15) |
 
 ### Scoring Criteria
 - **Opportunity Score**: Composite of Market Demand (30%), Feasibility (25%), Differentiation (25%), Strategic Fit (20%)
@@ -39,7 +44,7 @@ Domains ranked by opportunity score (research completed or pending).
 - [Productivity Domain Research](./productivity-opportunities.md) — FocusFlow, KnowHive, FlowState, HabitPulse, TaskTerrain
 - [Productivity Ideas (2026-05-09)](./productivity-ideas.md) — focus, ship, drift, review, stack, log
 - [Finance Domain Research](./finance-research.md) — SubAware, SpendSense, HouseFund
-- [Career Domain Research](./career-research.md) — SkillGraph, CareerPath, SideTrack, SalaryNegotiate, InterviewBuddy
+- [Career Domain Research (2026-05-23)](./career-research-session.md) — SkillAdjacent, InterviewPal, ResumeVault, SalaryStreet, ConnectKit
 - [Health & Wellness Research (2026-05-07)](./health-wellness-opportunities.md) — Habit Streak Tracker, Supplement & Stack Tracker
 - [Creativity Research (2026-05-10)](./creativity-research.md) — Verse, Riff, Tone, Montage
 - [Travel Research (2026-05-13)](./travel-research.md) — roam.ljding.app, trip.ljding.app, wander.ljding.app
@@ -49,6 +54,11 @@ Domains ranked by opportunity score (research completed or pending).
 - [Knowledge & PKM Research (2026-05-16)](./knowledge-research.md) — market landscape, 5 gaps identified
 - [Knowledge App Ideas (2026-05-16)](./knowledge-ideas.md) — Lattice, Graftbook, Inkwell, Shuangyu
 - [Social Accountability Research (2026-05-17)](./social-accountability-research.md) — 打卡圈, 督伴, 约定, 醒我, 共进
+- [Relationships & Dating Research (2026-06-02)](./relationships-research.md) — MàiDòng, QuèQiáo, YuánFèn, DuìHuà
+- [Communication Research (2026-06-04)](./communication-research.md) — EchoLoop, VoiceLetter, ParentVoice
+- [Identity/Documentation Research (2026-06-05)](./identity-documentation-research.md) — Docs, Renew, Vault, Checklist, Status
+- [Gaming/Entertainment Research (2026-06-06)](./gaming-entertainment-research.md) — MahJam, ChengYu Challenge, WatchWith, Heritage Quiz, TableTop
+- [Home Services Research (2026-06-15)](./home-services-new-concepts-2026.md) — ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū
 
 ## Productivity App Prioritization (2026-05-09)
 
@@ -121,4 +131,4 @@ Domains ranked by opportunity score (research completed or pending).
 5. Evaluation against strategic fit with existing apps
 
 ---
-*Last updated: May 2026 (Social Accountability domain added 2026-05-17)*
+*Last updated: June 2026 (Gaming/Entertainment domain added 2026-06-06)*

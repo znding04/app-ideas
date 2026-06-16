@@ -1,8 +1,8 @@
 # App Ideas Priority Ranking
 
-> Last updated: 2026-06-12 (Relationships & Network Maintenance session 23 — nurture, keepclose, circles, together, weave added 2026-06-12)
+> Last updated: 2026-06-15 (Home Services session 26 — ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū added 2026-06-15)
 > Scoring: 1-5 per category (5 = best), max total = 20
-> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**
+> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**, **Finance session 24 (SubAudit, FlexBudget, PairFi, NudgeWallet, WealthPulse, 2026-06-13)**, **Music/Audio session 25 (TīngPǔ, ShēngJì, BōKè Qiáo, LiànYīn, ShēngJǐng, 2026-06-14)**, **Home Services session 26 (ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū, 2026-06-15)**
 
 ## Overall Rankings
 
@@ -250,6 +250,46 @@
 - **Differentiation 4/5**: SubAware tracks subscriptions; QuotaGuard prevents over-subscription by tracking actual usage vs limits. Browser extension is novel.
 - **Monetization 3/5**: Freemium (5 quotas free, 20 quotas/$4/mo). Lower ceiling than others.
 - **Domain Fit 3/5**: Pairs with SubAware; expands learn.ljding.app content on hidden costs.
+
+### Finance Domain — Session 24 (2026-06-13)
+
+|| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+||------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+|| 27 | **SubAudit** — Subscription value tracker with usage scoring | subaudit.ljding.app | 5 | 4 | 4 | 4 | **17** |
+|| 28 | **FlexBudget** — Variable income budgeting engine | flexbudget.ljding.app | 4 | 4 | 4 | 5 | **17** |
+|| 29 | **PairFi** — Couples finance alignment tool | pairfi.ljding.app | 4 | 4 | 4 | 5 | **17** |
+|| 30 | **NudgeWallet** — Proactive AI finance coach | nudgewallet.ljding.app | 3 | 5 | 5 | 4 | **17** |
+|| 31 | **WealthPulse** — Unified financial dashboard | wealthpulse.ljding.app | 3 | 4 | 4 | 5 | **16** |
+
+### SubAudit (17/20) — Recommended from Session 24
+- **Feasibility 5/5**: Manual entry MVP, no bank API needed. 2-3 weeks build time.
+- **Differentiation 4/5**: Scores subscriptions by usage frequency and cost-per-use, not just listing them. Flags free trials about to convert.
+- **Monetization 4/5**: Affiliate fees from alternative service recommendations, freemium premium tier.
+- **Domain Fit 4/5**: Universal pain point, lightweight utility fits ecosystem. Fast to ship.
+
+### FlexBudget (17/20)
+- **Feasibility 4/5**: Income envelope system, dynamic budget recalculation. 3-4 weeks.
+- **Differentiation 4/5**: First web-first budgeting app designed for gig/freelance variable income.
+- **Monetization 4/5**: $5/mo premium for multi-income source sync, goal tracking.
+- **Domain Fit 5/5**: Complements QuantConnect hobby; serves underserved 1099 worker population.
+
+### PairFi (17/20)
+- **Feasibility 4/5**: Shared dashboards, goal negotiation, fairness-aware expense splitting. 4 weeks.
+- **Differentiation 4/5**: No couples finance app handles income disparity + shared goals elegantly.
+- **Monetization 4/5**: $8/mo couples premium (shared vaults, conflict analytics, multi-account sync).
+- **Domain Fit 5/5**: Complements hangwith.ljding.app — couples coordinate finances after coordinating hangs.
+
+### NudgeWallet (17/20)
+- **Feasibility 3/5**: Predictive nudge engine needs spending pattern analysis + rule engine. 5-6 weeks.
+- **Differentiation 5/5**: Shifts from reactive alerts to predictive, contextual interventions before overspending.
+- **Monetization 5/5**: $10/mo AI coaching tier, behavioral insights dashboard, premium interventions.
+- **Domain Fit 4/5**: AI-powered coach fits learn.ljding.app "serious learning" ecosystem philosophy.
+
+### WealthPulse (16/20)
+- **Feasibility 3/5**: Investment + spending + debt unified view needs multiple API integrations. 5-6 weeks.
+- **Differentiation 4/5**: One screen connecting daily spending to long-term wealth trajectory, complements QuantConnect.
+- **Monetization 4/5**: $7/mo for investment sync, weekly PDF reports, net worth analytics.
+- **Domain Fit 5/5**: Natural companion to QuantConnect hobby — connects trading to daily habits.
 
 ## Social/Community Domain (2026-05-27)
 
@@ -1588,12 +1628,180 @@
 
 ---
 
+## Music/Audio Domain (Session 25, 2026-06-14)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 1 | **听谱 (TīngPǔ)** — Cross-generational family music sharing | listen.ljding.app | 4 | 5 | 4 | 5 | **18** |
+| 2 | **声迹 (ShēngJì)** — Music-mood-context journal | soundtrace.ljding.app | 4 | 5 | 4 | 4 | **17** |
+| 2 | **播客桥 (BōKè Qiáo)** — Bilingual podcast companion | podbridge.ljding.app | 4 | 4 | 4 | 5 | **17** |
+| 4 | **练音 (LiànYīn)** — Web-first music practice companion | practice.ljding.app | 4 | 4 | 3 | 5 | **16** |
+| 5 | **声景 (ShēngJǐng)** — Interactive audio visualization & ambient spaces | ambient.ljding.app | 3 | 4 | 3 | 5 | **15** |
+
+### Scoring Rationale (Music/Audio Apps)
+
+#### 听谱 TīngPǔ (18/20) — Recommended #1 Music/Audio App
+- **Feasibility 4/5**: YouTube/audio embed + family rooms + song stories + bilingual metadata. 4-5 weeks MVP. Standard CRUD + embed + WebSocket for real-time family rooms.
+- **Differentiation 5/5**: No family-oriented music sharing tool exists anywhere. Zero competition for cross-generational, bilingual music curation with cultural context. Spotify is individual; Apple Music family sharing has no curation or stories.
+- **Monetization 4/5**: Free core (1 family, 50 songs). $6/mo for unlimited songs + AI cultural bridge playlists + family timeline export. Clear upgrade path.
+- **Domain Fit 5/5**: Strongest cultural fit in entire ecosystem. Direct hangwith.ljding.app integration (family listening sessions), learn.ljding.app (music history/culture), StoryVault (musical memories as oral history). Heritage preservation through music.
+
+#### 声迹 ShēngJì (17/20)
+- **Feasibility 4/5**: Audio recording + mood tagging + song linking + calendar view + Web Audio API for visualization. 4-5 weeks MVP.
+- **Differentiation 5/5**: No tool connects music → mood → life events. Completely novel intersection of journaling + music analytics. Day One has no music; Spotify has no mood/context.
+- **Monetization 4/5**: Free core (30 entries/mo). $5/mo for unlimited entries + mood analytics + listening pattern insights + export.
+- **Domain Fit 4/5**: Connects 心情簿 (mood journaling), 静心 (mindfulness), DreamDrift (sleep). Music as emotional data layer across ecosystem.
+
+#### 播客桥 BōKè Qiáo (17/20)
+- **Feasibility 4/5**: RSS aggregation + bilingual search + highlight/notes + Whisper API transcription. 4-5 weeks MVP.
+- **Differentiation 4/5**: First bilingual podcast tool. 小宇宙 is Chinese-only; Snipd/Airr are English-only. Cross-language discovery recommendations are novel.
+- **Monetization 4/5**: Free core (5 subscriptions). $6/mo for unlimited + AI transcription + bilingual summaries + PKM export.
+- **Domain Fit 5/5**: Direct learn.ljding.app integration (podcast-based learning). MindWeave (podcast → knowledge graph). RecallStack (podcast → flashcards). Strongest PKM synergy.
+
+#### 练音 LiànYīn (16/20)
+- **Feasibility 4/5**: Web Audio API metronome + MediaRecorder + loop playback + tempo control. 4-5 weeks MVP. Well-understood audio patterns.
+- **Differentiation 4/5**: No web-first practice companion exists. SmartMusic is desktop/$40yr. Chinese instrument support (二胡, 古筝, 琵琶) alongside Western is unique.
+- **Monetization 3/5**: Free core (metronome + recording). $5/mo for practice analytics + teacher sharing + progress tracking. Moderate ceiling.
+- **Domain Fit 5/5**: Natural learn.ljding.app extension for music education. 功夫日记-style session logging for music practice. Teacher/parent sharing across borders.
+
+#### 声景 ShēngJǐng (15/20)
+- **Feasibility 3/5**: WebGL/Canvas + Web Audio API FFT analysis + ambient sound mixing + generative visualizations. 5-7 weeks MVP. Highest creative/technical complexity.
+- **Differentiation 4/5**: No web-first interactive audio visualization tool. Noisli is static sound mixing; this adds real-time reactive visuals. Category exists but not productized accessibly.
+- **Monetization 3/5**: Free core (3 scenes). $4/mo for unlimited scenes + custom uploads + community gallery. Lower ceiling but cross-ecosystem utility.
+- **Domain Fit 5/5**: Shared audio-visual layer for entire ecosystem. 静心 (meditation visuals), DreamDrift (sleep soundscapes), BodyDouble (focus ambient). Infrastructure play.
+
+### Recommended Build Order (Music/Audio Domain)
+1. **听谱 TīngPǔ** — Highest score (18), strongest cultural moat, family music sharing as wedge into diaspora households. 4-5 weeks.
+2. **声迹 ShēngJì** — Novel music-mood intersection, enriches mood journal + mindfulness ecosystem. 4-5 weeks.
+3. **播客桥 BōKè Qiáo** — Strongest learn.ljding.app integration, addresses clear bilingual podcast gap. 4-5 weeks.
+4. **练音 LiànYīn** — Solid utility, natural education extension, Chinese instrument support is unique. 4-5 weeks.
+5. **声景 ShēngJǐng** — Most creative, highest complexity, best built after validating audio category. 5-7 weeks.
+
+**Ecosystem play:** 听谱 → 声迹 → 播客桥 creates a natural arc: *share family music* → *journal your musical life* → *discover new content in both languages*.
+
+---
+
+## Home Services Domain (Session 26, 2026-06-15)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 26 | **找工 (ZhǎoGōng)** | zhaogong.ljding.app | 4 | 5 | 4 | 5 | **18** |
+| 27 | **守家 (ShǒuJiā)** | shoujia.ljding.app | 3 | 5 | 4 | 5 | **17** |
+| 27 | **家护 (JiāHù)** | jiahu.ljding.app | 4 | 4 | 4 | 5 | **17** |
+| 27 | **好屋 (HǎoWū)** | haowu.ljding.app | 5 | 4 | 3 | 5 | **17** |
+
+### Scoring Rationale (Home Services Apps)
+
+#### 找工 (ZhǎoGōng) (18/20) — Recommended #1 Home Services App
+- **Feasibility 4/5**: Marketplace mechanics are proven. MVP: profile CRUD + job posting + messaging + ratings + Stripe escrow. 4-5 weeks. No novel ML needed.
+- **Differentiation 5/5**: No bilingual (EN/ZH) contractor marketplace exists. WeChat groups are unvetted, no reviews, no payment protection. Thumbtack/Angi are English-only. Zero direct competitors.
+- **Monetization 4/5**: 10% marketplace fee on job value. Featured profiles $20/mo. Insurance verification premium $5/mo. Contractors are repeat users → strong LTV.
+- **Ecosystem Fit 5/5**: hangwith neighborhood groups provide organic network effects. learn.ljding.app drives first-time users into homeownership. Privacy-first aligns with ecosystem.
+
+#### 守家 (ShǒuJiā) (17/20) — Recommended #2 Home Services App
+- **Feasibility 3/5**: Smart home device integration (Ring/Nest/SmartThings via Matter API) adds complexity. 5-6 weeks. Fallback to manual sensor input reduces scope to 3-4 weeks.
+- **Differentiation 5/5**: No tool targets the "empty home" problem for international shuttle families. Most solutions focus on smart home automation, not cross-border family coordination. Bilingual interface for parents is key differentiator.
+- **Monetization 4/5**: $6/mo multi-device hub + trusted contacts. $10/mo for expert emergency dispatch + insurance claim documentation. Strong emotional peace-of-mind value justifies premium.
+- **Ecosystem Fit 5/5**: Most culturally specific concept — directly serves the shuttle family lifestyle unique to Chinese diaspora. Strong emotional resonance.
+
+#### 家护 (JiāHù) (17/20)
+- **Feasibility 4/5**: CRUD + scheduling + family sharing + medication reminders. No complex real-time. Standard web stack. 4-5 weeks.
+- **Differentiation 4/5**: Honor/CareLinx do matching; JiāHù does coordination + family sharing + bilingual in one tool. WeChat groups have no structure. Clear gap.
+- **Monetization 4/5**: $8/mo per family. Premium AI insights + physician report at $12/mo. Emotionally invested users = natural premium conversion.
+- **Ecosystem Fit 5/5**: Deeply cultural — serves Chinese family values around elder care. Integrates with ShǒuJiā (elderly parents alone) + 共进 GòngJìn (family coordination) + learn.ljding.app.
+
+#### 好屋 (HǎoWū) (17/20)
+- **Feasibility 5/5**: Content-driven with checklist logic + document storage. No complex integrations. 3-4 weeks — simplest home services MVP.
+- **Differentiation 4/5**: No bilingual homeownership onboarding tool. Zillow/mortgage apps focus on the purchase, not post-close education. Fills the post-close gap.
+- **Monetization 3/5**: Free core, $5/mo premium for vault + tax appeal tracker. Lower ceiling but massive first-time homeowner audience.
+- **Ecosystem Fit 5/5**: Gateway app — first-time homeowners become learn + ZhǎoGōng + ShǒuJiā users. Bridges full ownership lifecycle.
+
+### Recommended Build Order (Home Services Domain)
+1. **好屋 (HǎoWū)** — Easiest MVP (3-4 weeks), broadest appeal, gateway to ecosystem
+2. **找工 (ZhǎoGōng)** — Highest differentiation, strongest network effects, 4-5 weeks
+3. **家护 (JiāHù)** — Strong cultural fit, builds on family coordination patterns, 4-5 weeks
+4. **守家 (ShǒuJiā)** — Most complex (smart home APIs), most unique diaspora angle, 5-6 weeks
+
+### Cross-Ecosystem Synergies (Home Services)
+- 好屋 → ZhǎoGōng: Homeowners who need contractors → contractor marketplace
+- 好屋 → ShǒuJiā: Smart home setup for new homeowners → empty home monitoring
+- 家护 ↔ ShǒuJiā: Elderly parents → JiāHù coordinates care, ShǒuJiā monitors home
+- 家护 → 共进 GòngJìn: Family caregiving circles extend family goal sync concept
+- ZhǎoGōng → learn.ljding.app: Recommended contractors from home maintenance course
+
+---
+
+## Navigation / Wayfinding Domain (Session 27, 2026-06-16)
+
+|| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+|| 1 | **ChinaWay** — English-first web navigation for China travel | chinaway.ljding.app | 4 | 5 | 3 | 5 | **17** |
+|| 2 | **AroundCN** — Bilingual EN/ZH trip planner that syncs to phone | aroundcn.ljding.app | 4 | 4 | 3 | 5 | **16** |
+|| 2 | **WalkIn** — Crowdsourced Chinese cultural venue database | walkin.ljding.app | 4 | 5 | 3 | 4 | **16** |
+|| 2 | **HuMini** — Find Chinese-speaking local businesses in any US city | humini.ljding.app | 5 | 4 | 3 | 4 | **16** |
+|| 5 | **ShuttleNav** — Dual-country lifestyle service directory | shuttlenav.ljding.app | 4 | 4 | 4 | 3 | **15** |
+|| 5 | **HuWei** — Map the diaspora community spaces near you | huwei.ljding.app | 5 | 4 | 3 | 3 | **15** |
+
+### Scoring Rationale (Navigation/Wayfinding Apps)
+
+#### ChinaWay (17/20) — Recommended #1 Navigation App
+- **Feasibility 4/5**: OSM base map + Gaode English API + web interface. 4-5 weeks MVP. No Chinese input required.
+- **Differentiation 5/5**: Zero English-friendly web navigation tools for China. Complete white space. Google Maps limited, Baidu/Gaode require Chinese. No English-accessible China map that works on desktop.
+- **Monetization 3/5**: $5/mo for offline maps + itinerary sync. Free core covers basic navigation. Lower ceiling but diaspora travelers are motivated users.
+- **Domain Fit 5/5**: Strongest travel fit for English speakers visiting China. Shuttle families need reliable English navigation for China home visits. Perfect entry point for ljding.app travel sub-ecosystem.
+
+#### AroundCN (16/20) — Recommended #2 Navigation App
+- **Feasibility 4/5**: Trip itinerary builder + cloud sync + mobile PWA. 4-5 weeks MVP.
+- **Differentiation 4/5**: Web-first bilingual China pre-trip planning. No bilingual competitor for desktop-based trip planning.
+- **Monetization 3/5**: $4/mo for sync + premium templates (business trip, family visit, solo traveler). Lower ceiling.
+- **Domain Fit 5/5**: Strongest China travel fit. Integrates with ChinaWay (navigation) and wander.ljding.app (travel journal).
+
+#### WalkIn (16/20)
+- **Feasibility 4/5**: Place database + crowdsourced contribution + map visualization. Content is the challenge. 4-5 weeks.
+- **Differentiation 5/5**: No crowdsourced Chinese cultural venue database exists. Genuinely novel — heritage sites are poorly indexed globally.
+- **Monetization 3/5**: $3/mo for listing claims + analytics. Lower ceiling but ads model possible for venues.
+- **Domain Fit 4/5**: learn.ljding.app cultural education integration. Wander (travel journal) includes cultural site visits.
+
+#### HuMini (16/20)
+- **Feasibility 5/5**: Yelp API + bilingual enhancement + crowdsourced bilingual data layer. 3-4 weeks MVP — fastest in domain.
+- **Differentiation 4/5**: Bilingual + diaspora-specific service categories (bilingual doctors, Chinese-speaking banks). No direct competitor.
+- **Monetization 3/5**: $4/mo for listing claims + premium categories. Lower monetization ceiling but broadest appeal.
+- **Domain Fit 4/5**: Complements roam.ljding.app (China trips) and wander.ljding.app (travel journal). Diaspora neighborhood discovery.
+
+#### ShuttleNav (15/20)
+- **Feasibility 4/5**: Dual-country service directory + map interface + contractor verification. 4-5 weeks.
+- **Differentiation 4/5**: No dual-country navigation tool. Completely novel category.
+- **Monetization 4/5**: $5/mo premium dual-country features. International families have high willingness to pay.
+- **Domain Fit 3/5**: Specific to shuttle families. Narrower audience but very high cultural resonance for the right users.
+
+#### HuWei (15/20)
+- **Feasibility 5/5**: Simple map + place list + filtering + community contributions. 2-3 week MVP — fastest MVP in entire ecosystem.
+- **Differentiation 4/5**: Maps diaspora community spaces — language exchanges, cultural centers, Chinese community organizations. No existing tool does this.
+- **Monetization 3/5**: Ads + event promotion + premium city guides. Lower ceiling but community-building potential.
+- **Domain Fit 3/5**: hangwith.ljding.app integration (community events). learn.ljding.app for cultural education.
+
+### Recommended Build Order (Navigation/Wayfinding Domain)
+1. **ChinaWay** — Highest differentiation (complete white space), strongest travel fit, 4-5 weeks. Establishes China navigation authority brand.
+2. **AroundCN** — Complements ChinaWay (pre-trip planning + navigation), bilingual EN/ZH, 4-5 weeks. Natural companion to ChinaWay.
+3. **WalkIn** — Cultural venue database, strong learn.ljding.app integration, 4-5 weeks. Content-driven, no complex APIs.
+4. **HuMini** — Fastest MVP (3-4 weeks), broadest appeal, diaspora neighborhood discovery.
+5. **ShuttleNav** — Most culturally specific, serves the shuttle family niche well, 4-5 weeks.
+6. **HuWei** — Fastest MVP (2-3 weeks), community-building angle, best as a hangwith.ljding.app feature extension.
+
+### Cross-Ecosystem Synergies (Navigation/Wayfinding)
+- ChinaWay → AroundCN: Navigate → Plan (China trip lifecycle)
+- AroundCN → wander.ljding.app: Plan → Remember (travel journal)
+- HuMini → roam.ljding.app: Local discovery → Trip planning
+- WalkIn → learn.ljding.app: Cultural venue discovery → Heritage education courses
+- ShuttleNav → ZhǎoGōng: Service discovery in both countries
+- HuWei → hangwith.ljding.app: Community spaces → Social event coordination
+
+---
+
 ## Next Domain to Explore
 
 Potential domains not yet covered:
-- **Navigation/Wayfinding** (local navigation, not travel)
-- **Music/Audio** (playlist management, audio visualization)
 - **News/RSS** (content aggregation, reading tracking)
 - **Photo/Image** (organization, sharing)
 - **Card Games / Board Games** (multiplayer gaming)
-- **Gift Giving** (gift tracking, wishlists, occasions)
+- **Gift Giving** (gift tracking, wishlists, occasion management)
