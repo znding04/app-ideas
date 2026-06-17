@@ -1,8 +1,8 @@
 # App Ideas Priority Ranking
 
-> Last updated: 2026-06-15 (Home Services session 26 — ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū added 2026-06-15)
+> Last updated: 2026-06-17 (Pet Care session 28 — ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān added 2026-06-17)
 > Scoring: 1-5 per category (5 = best), max total = 20
-> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**, **Finance session 24 (SubAudit, FlexBudget, PairFi, NudgeWallet, WealthPulse, 2026-06-13)**, **Music/Audio session 25 (TīngPǔ, ShēngJì, BōKè Qiáo, LiànYīn, ShēngJǐng, 2026-06-14)**, **Home Services session 26 (ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū, 2026-06-15)**
+> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**, **Finance session 24 (SubAudit, FlexBudget, PairFi, NudgeWallet, WealthPulse, 2026-06-13)**, **Music/Audio session 25 (TīngPǔ, ShēngJì, BōKè Qiáo, LiànYīn, ShēngJǐng, 2026-06-14)**, **Home Services session 26 (ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū, 2026-06-15)**, **Navigation/Wayfinding session 27 (ChinaWay, AroundCN, WalkIn, HuMini, ShuttleNav, HuWei, 2026-06-16)**, **Pet Care session 28 (ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān, 2026-06-17)**
 
 ## Overall Rankings
 
@@ -1557,7 +1557,7 @@
 
 ## Relationships & Network Maintenance Domain (Session 23, 2026-06-12)
 
-### Grand Total Rankings — Session 23 Update
+### Grand Total Rankings — Session 28 Update
 
 | Grand Rank | App | Domain | Subdomain | **Total** |
 |------------|-----|--------|-----------|:---------:|
@@ -1575,14 +1575,25 @@
 | 5 | **Switchboard** | Productivity | switchboard.ljding.app | **17** |
 | 5 | **keepclose** | Relationships | keepclose.ljding.app | **17** |
 | 5 | **circles** | Relationships | circles.ljding.app | **17** |
-| 14 | **Tidbit** | Productivity | tidbit.ljding.app | **16** |
-| 14 | **Review** | Productivity | review.ljding.app | **16** |
-| 14 | **Stack** | Wellness | stack.ljding.app | **16** |
-| 14 | **together** | Relationships | together.ljding.app | **16** |
-| 14 | **weave** | Relationships | weave.ljding.app | **16** |
-| 19 | **Tempo** | Productivity | tempo.ljding.app | **15** |
-| 19 | **StressMap** | Wellness | stressmap.ljding.app | **15** |
-| 19 | **禅修 (ChanXiu)** | Mindfulness | chanxiu.ljding.app | **15** |
+| 5 | **宠学 (ChǒngXué)** | Pet Care | pet.learn.ljding.app | **17** |
+| 5 | **ChinaWay** | Navigation | chinaway.ljding.app | **17** |
+| 17 | **Tidbit** | Productivity | tidbit.ljding.app | **16** |
+| 17 | **Review** | Productivity | review.ljding.app | **16** |
+| 17 | **Stack** | Wellness | stack.ljding.app | **16** |
+| 17 | **together** | Relationships | together.ljding.app | **16** |
+| 17 | **weave** | Relationships | weave.ljding.app | **16** |
+| 17 | **宠伴 (ChǒngBàn)** | Pet Care | pet.health.ljding.app | **16** |
+| 17 | **跨宠 (KuàChǒng)** | Pet Care | pet.travel.ljding.app | **16** |
+| 17 | **AroundCN** | Navigation | aroundcn.ljding.app | **16** |
+| 17 | **WalkIn** | Navigation | walkin.ljding.app | **16** |
+| 17 | **HuMini** | Navigation | humini.ljding.app | **16** |
+| 27 | **Tempo** | Productivity | tempo.ljding.app | **15** |
+| 27 | **StressMap** | Wellness | stressmap.ljding.app | **15** |
+| 27 | **禅修 (ChanXiu)** | Mindfulness | chanxiu.ljding.app | **15** |
+| 27 | **找宠 (ZhǎoChǒng)** | Pet Care | pet.find.ljding.app | **15** |
+| 27 | **毛圈 (MáoQuān)** | Pet Care | pet.social.ljding.app | **15** |
+| 27 | **ShuttleNav** | Navigation | shuttlenav.ljding.app | **15** |
+| 27 | **HuWei** | Navigation | huwei.ljding.app | **15** |
 
 ### Relationships Domain Session 23 Rankings
 
@@ -1795,6 +1806,64 @@
 - WalkIn → learn.ljding.app: Cultural venue discovery → Heritage education courses
 - ShuttleNav → ZhǎoGōng: Service discovery in both countries
 - HuWei → hangwith.ljding.app: Community spaces → Social event coordination
+
+---
+
+## Pet Care Domain (Session 28, 2026-06-17)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 1 | **宠学 (ChǒngXué)** — Bilingual Pet Care Learning Hub | pet.learn.ljding.app | 5 | 4 | 3 | 5 | **17** |
+| 2 | **宠伴 (ChǒngBàn)** — Bilingual Pet Health Companion | pet.health.ljding.app | 5 | 4 | 3 | 4 | **16** |
+| 2 | **跨宠 (KuàChǒng)** — Cross-Border Pet Travel Planner | pet.travel.ljding.app | 3 | 5 | 4 | 4 | **16** |
+| 4 | **找宠 (ZhǎoChǒng)** — Chinese-Speaking Pet Services Finder | pet.find.ljding.app | 3 | 5 | 3 | 4 | **15** |
+| 4 | **毛圈 (MáoQuān)** — Bilingual Pet Social Community | pet.social.ljding.app | 3 | 4 | 3 | 5 | **15** |
+
+### Scoring Rationale (Pet Care Apps)
+
+#### 宠学 ChǒngXué (17/20) — Recommended #1 Pet Care App
+- **Feasibility 5/5**: Content site with quiz engine. 2-3 weeks for platform. Content creation is ongoing but low-tech. Standard Vue 3 + Cloudflare.
+- **Differentiation 4/5**: Bilingual EN/ZH pet education is white space. US pet regulations in Chinese don't exist anywhere. But content creation is the real investment.
+- **Monetization 3/5**: $4/mo for premium courses + offline access. Education content has moderate willingness to pay. Lower ceiling than health/travel.
+- **Ecosystem Fit 5/5**: Direct extension of learn.ljding.app philosophy. This IS learn.ljding.app for pets. Strongest learn integration in pet domain.
+
+#### 宠伴 ChǒngBàn (16/20)
+- **Feasibility 5/5**: Simple CRUD + local storage + PDF export. 2-3 week MVP. No complex APIs. IndexedDB for privacy-first local storage.
+- **Differentiation 4/5**: Bilingual pet health records are white space. Privacy-first (local storage default) is unique. Vet visit bilingual prep sheet is genuinely novel.
+- **Monetization 3/5**: $4/mo for cloud sync + multi-device. Lower ceiling — pet records alone aren't high-value enough for premium pricing.
+- **Ecosystem Fit 4/5**: Health records feed into KuàChǒng travel documents. learn.ljding.app pet care courses link to health milestones.
+
+#### 跨宠 KuàChǒng (16/20)
+- **Feasibility 3/5**: Regulation data collection and maintenance is the challenge. Document generation adds complexity. 5-6 weeks MVP.
+- **Differentiation 5/5**: Complete white space. No bilingual US↔China pet travel tool exists. Extremely high pain point for shuttle families.
+- **Monetization 4/5**: $8/mo or one-time $15 for full travel checklist + document generation. High willingness to pay — stakes are high (pet health, customs compliance).
+- **Ecosystem Fit 4/5**: ChinaWay/Roam travel integration. ChǒngBàn health record export for travel documents. Strong cross-domain synergy.
+
+#### 找宠 ZhǎoChǒng (15/20)
+- **Feasibility 3/5**: Directory needs data seeding. Crowdsourcing takes time to build critical mass. Maps integration is straightforward. 5-6 weeks.
+- **Differentiation 5/5**: Complete white space. No Chinese-speaking pet service directory in the US. Community-driven data gives defensible moat.
+- **Monetization 3/5**: Listing claims $5/mo for businesses. Lower ceiling but advertising potential. Parallels HuMini monetization model.
+- **Ecosystem Fit 4/5**: Parallels HuMini (Chinese-speaking local services). Feeds into hangwith pet social features.
+
+#### 毛圈 MáoQuān (15/20)
+- **Feasibility 3/5**: Social features + content moderation + translation + location matching. 5-6 weeks. Community bootstrapping is the primary risk.
+- **Differentiation 4/5**: Bilingual pet social is novel. Bridges MeowCard (Chinese) and US pet social void. But social apps are notoriously hard to bootstrap.
+- **Monetization 3/5**: $5/mo for premium photo storage + cross-border sharing. Social apps have low willingness to pay historically.
+- **Ecosystem Fit 5/5**: Strongest hangwith.ljding.app integration — pet social IS social activity. Pet playdates as hangwith activity type.
+
+### Recommended Build Order (Pet Care Domain)
+1. **宠学 (ChǒngXué)** — Highest score (17/20), fastest MVP, strongest learn.ljding.app integration. Content-first, low technical risk.
+2. **宠伴 (ChǒngBàn)** — High feasibility (5/5), 2-3 week MVP, privacy-first. Natural companion to ChǒngXué (learn → track).
+3. **跨宠 (KuàChǒng)** — Highest differentiation + monetization. More complex but addresses highest-pain diaspora need.
+4. **找宠 (ZhǎoChǒng)** — Directory requires data seeding but complete white space. Community-driven growth.
+5. **毛圈 (MáoQuān)** — Social bootstrapping risk. Build last when other pet apps create a user base.
+
+### Cross-Ecosystem Synergies (Pet Care)
+- ChǒngXué → learn.ljding.app: Pet education as a learn vertical
+- ChǒngBàn → KuàChǒng: Health records export for travel documents
+- KuàChǒng → ChinaWay/Roam: Pet travel integrates with China trip planning
+- ZhǎoChǒng → HuMini: Shares Chinese-speaking service discovery pattern
+- MáoQuān → hangwith.ljding.app: Pet playdates as social activity type
 
 ---
 
