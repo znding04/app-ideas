@@ -32,6 +32,8 @@ Domains ranked by opportunity score (research completed or pending).
 | **Identity/Documentation** | 82/100 | High | High | Strong (web-first gap, bilingual EN/ZH, privacy-first, diaspora document pain) | ✅ Researched (2026-06-05) |
 | **Gaming/Entertainment** | 80/100 | High | High | Strong (web-first gap, Chinese-bilingual, cultural connection, mahjong/idiom/trivia white space) | ✅ Researched (2026-06-06) |
 | **Home Services** | 82/100 | High | High | Strong (bilingual contractor matching, diaspora-specific gaps, web-first white space) | ✅ Researched (2026-06-15) |
+| **Navigation/Wayfinding** | 78/100 | High | High | Strong (web-first China navigation gap, bilingual local discovery, diaspora shuttle family) | ✅ Researched (2026-06-16) |
+| **Pet Care** | 72/100 | High | High | Strong (bilingual EN/ZH pet care white space, diaspora pet ownership, web-first gap) | ✅ Researched (2026-06-17) |
 
 ### Scoring Criteria
 - **Opportunity Score**: Composite of Market Demand (30%), Feasibility (25%), Differentiation (25%), Strategic Fit (20%)
@@ -59,6 +61,8 @@ Domains ranked by opportunity score (research completed or pending).
 - [Identity/Documentation Research (2026-06-05)](./identity-documentation-research.md) — Docs, Renew, Vault, Checklist, Status
 - [Gaming/Entertainment Research (2026-06-06)](./gaming-entertainment-research.md) — MahJam, ChengYu Challenge, WatchWith, Heritage Quiz, TableTop
 - [Home Services Research (2026-06-15)](./home-services-new-concepts-2026.md) — ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū
+- [Navigation/Wayfinding Research (2026-06-16)](./navigation-wayfinding-concepts-2026.md) — ChinaWay, AroundCN, WalkIn, HuMini, ShuttleNav, HuWei
+- [Pet Care Research (2026-06-17)](./pet-care-research-2026.md) — ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān
 
 ## Productivity App Prioritization (2026-05-09)
 
