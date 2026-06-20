@@ -34,6 +34,8 @@ Domains ranked by opportunity score (research completed or pending).
 | **Home Services** | 82/100 | High | High | Strong (bilingual contractor matching, diaspora-specific gaps, web-first white space) | ✅ Researched (2026-06-15) |
 | **Navigation/Wayfinding** | 78/100 | High | High | Strong (web-first China navigation gap, bilingual local discovery, diaspora shuttle family) | ✅ Researched (2026-06-16) |
 | **Pet Care** | 72/100 | High | High | Strong (bilingual EN/ZH pet care white space, diaspora pet ownership, web-first gap) | ✅ Researched (2026-06-17) |
+| **Gift Giving** | 80/100 | High | High | Strong (web-first gap, bilingual EN/ZH, diaspora reciprocity tracking, cross-border red envelopes) | ✅ Researched (2026-06-18) |
+| **Time/Clock** | 75/100 | High | High | Strong (web-first gap, bilingual EN/ZH, diaspora timezone coordination, family connection) | ✅ Researched (2026-06-20) |
 
 ### Scoring Criteria
 - **Opportunity Score**: Composite of Market Demand (30%), Feasibility (25%), Differentiation (25%), Strategic Fit (20%)
@@ -63,6 +65,8 @@ Domains ranked by opportunity score (research completed or pending).
 - [Home Services Research (2026-06-15)](./home-services-new-concepts-2026.md) — ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū
 - [Navigation/Wayfinding Research (2026-06-16)](./navigation-wayfinding-concepts-2026.md) — ChinaWay, AroundCN, WalkIn, HuMini, ShuttleNav, HuWei
 - [Pet Care Research (2026-06-17)](./pet-care-research-2026.md) — ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān
+- [Gift Giving Research (2026-06-18)](./gift-giving-research-2026.md) — LǐShàng, JìJié, BànShǒu Lǐ, HóngBāo Flow, SòngLǐ Scout
+- [Time/Clock Research (2026-06-20)](./time-clock-research-2026.md) — AnyZone, FamilyTime, Gentle Pomodoro, TimeGaps, RitualClock, SlowClock
 
 ## Productivity App Prioritization (2026-05-09)
 
@@ -135,4 +139,4 @@ Domains ranked by opportunity score (research completed or pending).
 5. Evaluation against strategic fit with existing apps
 
 ---
-*Last updated: June 2026 (Gaming/Entertainment domain added 2026-06-06)*
+*Last updated: June 2026 (Time/Clock domain added 2026-06-20)*

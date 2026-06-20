@@ -1,8 +1,8 @@
 # App Ideas Priority Ranking
 
-> Last updated: 2026-06-17 (Pet Care session 28 — ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān added 2026-06-17)
+> Last updated: 2026-06-20 (Time/Clock session 31 — AnyZone, FamilyTime, Gentle Pomodoro, TimeGaps, RitualClock, SlowClock)
 > Scoring: 1-5 per category (5 = best), max total = 20
-> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**, **Finance session 24 (SubAudit, FlexBudget, PairFi, NudgeWallet, WealthPulse, 2026-06-13)**, **Music/Audio session 25 (TīngPǔ, ShēngJì, BōKè Qiáo, LiànYīn, ShēngJǐng, 2026-06-14)**, **Home Services session 26 (ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū, 2026-06-15)**, **Navigation/Wayfinding session 27 (ChinaWay, AroundCN, WalkIn, HuMini, ShuttleNav, HuWei, 2026-06-16)**, **Pet Care session 28 (ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān, 2026-06-17)**
+> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**, **Finance session 24 (SubAudit, FlexBudget, PairFi, NudgeWallet, WealthPulse, 2026-06-13)**, **Music/Audio session 25 (TīngPǔ, ShēngJì, BōKè Qiáo, LiànYīn, ShēngJǐng, 2026-06-14)**, **Home Services session 26 (ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū, 2026-06-15)**, **Navigation/Wayfinding session 27 (ChinaWay, AroundCN, WalkIn, HuMini, ShuttleNav, HuWei, 2026-06-16)**, **Pet Care session 28 (ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān, 2026-06-17)**, **News/RSS session 30 (DúBào, GuānDiǎn, QiáoWén, LiúShēng, GuòLǜ, 2026-06-19)**
 
 ## Overall Rankings
 
@@ -1867,10 +1867,210 @@
 
 ---
 
+## Gift Giving Domain (Session 29, 2026-06-18)
+
+|| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 1 | **礼尚 (LǐShàng)** — Culturally-intelligent gift tracker with guanxi reciprocity ledger | gift.ljding.app | 4 | 5 | 4 | 5 | **18** |
+| 2 | **季节 (JìJié)** — Dual-calendar lunar/solar occasion planner with gift budget intelligence | jijie.ljding.app | 5 | 5 | 3 | 5 | **18** |
+| 3 | **伴手礼 (BànShǒu Lǐ)** — Group gifting coordinator for diaspora milestone events | banshouli.ljding.app | 4 | 5 | 3 | 5 | **17** |
+| 4 | **红包 Flow (HóngBāo Flow)** — Cross-border red envelope orchestrator | hongbao.ljding.app | 3 | 5 | 4 | 5 | **17** |
+| 5 | **送礼 Scout (SòngLǐ Scout)** — AI gift discovery with cross-border fulfillment routing | songli.ljding.app | 3 | 4 | 5 | 4 | **16** |
+
+### Scoring Rationale (Gift Giving Apps)
+
+#### 礼尚 LǐShàng (18/20) — Recommended #1 Gift Giving App
+- **Feasibility 4/5**: Core is a CRUD app with rules engine. Cultural rule encoding (~50 core rules) is the novel part but scoped for MVP. No payments integration needed at launch.
+- **Differentiation 5/5**: Reciprocity-first data model. Every competitor is wishlist-first (what do I want?). LǐShàng is relationship-first (what do I owe, and what's appropriate?). This is the fundamental Chinese gift-giving mental model zero Western apps capture.
+- **Monetization 4/5**: Free tier (20 contacts). Premium ($3/mo) for unlimited + family sharing + AI suggestions. Affiliate revenue on recommended gifts. Proven freemium model.
+- **Domain Fit 5/5**: Strongest learn.ljding.app integration ("Gift Etiquette 101" module teaching cultural rules). hangwith.ljding.app integration for coordinating gifts at planned gatherings. The reciprocity ledger is genuinely novel and fills a white-space gap.
+
+#### 季节 JìJié (18/20)
+- **Feasibility 5/5**: Lunar calendar libraries exist (lunar-javascript). Core is calendar + budget tracking. PWA build. Lowest technical risk of all concepts.
+- **Differentiation 5/5**: Calendar-as-gift-planner is a novel frame. Nobody combines lunar/solar calendar management with gift budget intelligence. Dual-calendar support is completely unique.
+- **Monetization 3/5**: Free tier (one calendar, basic reminders). Premium ($2.50/mo) for family sharing + analytics. Lower ceiling — calendar apps are expected to be free.
+- **Domain Fit 5/5**: Direct learn.ljding.app integration (cultural calendar literacy). hangwith integration for celebration planning. Could be a feature within LǐShàng rather than standalone.
+
+#### 伴手礼 BànShǒu Lǐ (17/20)
+- **Feasibility 4/5**: Core is event + group coordination (similar to hangwith patterns). Cultural amount suggestion engine is the novel component. No payment integration needed at MVP.
+- **Differentiation 5/5**: Western group gifting is money-pool-first. This is social-coordination-first — managing "who gives how much relative to whom" dynamics Chinese families navigate implicitly.
+- **Monetization 3/5**: Free for groups up to 8. Premium event ($3 one-time) for larger groups. Lower ceiling without payment integration.
+- **Domain Fit 5/5**: Deepest hangwith.ljding.app integration — milestone events in hangwith trigger group gifting flows here. Natural event-planning extension.
+
+#### 红包 Flow HóngBāo Flow (17/20)
+- **Feasibility 3/5**: MVP avoids payment integration (tracking/planning only), which keeps it buildable. Future payment aggregation is hard (regulatory complexity). The coordination + cultural intelligence layer alone is valuable.
+- **Differentiation 5/5**: Cross-border coordination layer is completely unique. WeChat handles China-to-China; Venmo handles US-to-US. Nobody handles family coordination across both ecosystems.
+- **Monetization 4/5**: Free for personal use. Transaction fee (1-2%) if direct payment added. Premium ($2/mo) for family groups + analytics. Good balance of free + paid.
+- **Domain Fit 5/5**: Strongest cultural identity fit — digital red envelope management is deeply Chinese. learn.ljding.app for red envelope etiquette. hangwith for in-person exchange coordination.
+
+#### 送礼 Scout SòngLǐ Scout (16/20)
+- **Feasibility 3/5**: AI recommendation engine is straightforward with current LLMs. Affiliate link aggregation across Amazon + Chinese platforms is the harder integration. MVP can start Amazon-only.
+- **Differentiation 4/5**: Cross-border fulfillment routing is novel ("your aunt is in Shanghai — here's the same gift on JD.com for 40% less"). AI cultural filtering is additive.
+- **Monetization 5/5**: Affiliate commissions (4-8% Amazon, variable Chinese platforms). Sponsored placements from diaspora-targeted brands. Highest monetization potential.
+- **Domain Fit 4/5**: learn.ljding.app for gift meaning database. hangwith "gift ideas" widget when events approach. Complements other gift apps rather than competing.
+
+### Recommended Build Order (Gift Giving Domain)
+1. **礼尚 (LǐShàng)** — Strongest differentiator (reciprocity-first), highest ecosystem synergy, solid feasibility (4/5). The foundational gift app for the ecosystem.
+2. **季节 (JìJié)** — Easiest to build (5/5 feasibility), could be a feature within LǐShàng or standalone calendar. Fastest to ship.
+3. **伴手礼 (BànShǒu Lǐ)** — Deepest hangwith.ljding.app integration. Build when milestone event features are needed.
+4. **红包 Flow (HóngBāo Flow)** — Highest cultural identity fit but payment-adjacent complexity. Best after LǐShàng establishes the platform.
+5. **送礼 Scout (SòngLǐ Scout)** — Highest monetization potential but cross-platform affiliate integration complexity. Best after other gift apps have users.
+
+### Cross-Ecosystem Synergies (Gift Giving)
+- LǐShàng → learn.ljding.app: "Gift Etiquette 101" module teaching cultural rules the app encodes
+- LǐShàng → hangwith.ljding.app: Pull gift context when planning birthday/holiday hangouts
+- JìJié → learn.ljding.app: Cultural calendar literacy course
+- JìJié → hangwith.ljding.app: Occasion dates feed into hangwith for celebration planning
+- HóngBāo Flow → hangwith.ljding.app: Coordinate in-person red envelope exchanges at family gatherings
+- SòngLǐ Scout → learn.ljding.app: Gift meaning database as learn content
+- BànShǒu Lǐ → hangwith.ljding.app: Milestone events in hangwith trigger group gifting flows
+
+---
+
 ## Next Domain to Explore
 
 Potential domains not yet covered:
 - **News/RSS** (content aggregation, reading tracking)
 - **Photo/Image** (organization, sharing)
 - **Card Games / Board Games** (multiplayer gaming)
-- **Gift Giving** (gift tracking, wishlists, occasion management)
+
+---
+
+## News/RSS Domain (Session 30, 2026-06-19)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 1 | **读报 (DúBào)** — Bilingual news dashboard for diaspora readers | dubao.ljding.app | 5 | 5 | 3 | 5 | **18** |
+| 2 | **观点 (GuānDiǎn)** — Cross-border opinion aggregator with EN/ZH side-by-side | guandian.ljding.app | 3 | 5 | 4 | 5 | **17** |
+| 2 | **侨闻 (QiáoWén)** — Diaspora news curation with cultural context notes | qiaowen.ljding.app | 4 | 5 | 3 | 5 | **17** |
+| 4 | **留声 (LiúShēng)** — Podcast aggregator with bilingual transcripts | liusheng.ljding.app | 3 | 5 | 4 | 4 | **16** |
+| 4 | **过滤 (GuòLǜ)** — Privacy-first reader with information diet analytics | guolv.ljding.app | 5 | 4 | 3 | 4 | **16** |
+
+### Scoring Rationale (News/RSS Apps)
+
+#### 读报 DúBào (18/20) — Recommended #1 News/RSS App
+- **Feasibility 5/5**: Pure frontend RSS reader with standard fetch APIs. OPML import/export. IndexedDB local storage. 3-4 week MVP — second fastest in domain.
+- **Differentiation 5/5**: No bilingual RSS reader exists. All RSS apps are English-only. Bilingual EN/ZH source organization is genuinely novel. Zero direct competitors.
+- **Monetization 3/5**: Free core (unlimited feeds, no account). $4/mo for cross-device cloud sync. $2/mo for read analytics dashboard. Lower ceiling but RSS power users accept paid tiers.
+- **Domain Fit 5/5**: Direct learn.ljding.app integration — reading as learning, articles flowing into Recall for fact retention. Privacy-first aligns with ecosystem. Complements Passage + Recall pipeline.
+
+#### 观点 GuānDiǎn (17/20)
+- **Feasibility 3/5**: AI perspective summarization requires LLM API. Story matching across EN/ZH sources needs news API. ZH feed parsing is the hard part. 5-6 weeks MVP.
+- **Differentiation 5/5**: No tool surfaces cross-border perspective bias in structured side-by-side format. Directly addresses diaspora-specific need no competitor serves.
+- **Monetization 4/5**: $5/mo for unlimited comparisons + AI summaries. Free tier (5 comparisons/day). Higher ceiling due to AI feature value.
+- **Domain Fit 5/5**: Deepest media literacy fit in ecosystem. learn.ljding.app for critical media consumption education. MindWeave integration for perspective graph.
+
+#### 侨闻 QiáoWén (17/20)
+- **Feasibility 4/5**: Curated directory (no RSS scraping). Context card generation via LLM. Daily briefing via email API. 4-5 weeks MVP.
+- **Differentiation 5/5**: No news app is specifically curated for Chinese-American diaspora relevance. Context cards ("explain why this matters") are completely novel and directly address a real pain point.
+- **Monetization 3/5**: Free core (curated feeds + context cards). $4/mo for daily email briefing + offline. Lower ceiling but strong loyal audience among diaspora news consumers.
+- **Domain Fit 5/5**: Strongest cultural identity fit. Directly serves Chinese-American information needs. learn.ljding.app for cultural literacy. No other ecosystem app serves this specific audience.
+
+#### 留声 LiúShēng (16/20)
+- **Feasibility 3/5**: Audio player straightforward. AI bilingual transcript generation (Whisper + translation) adds cost and latency. 5-6 weeks MVP.
+- **Differentiation 5/5**: No bilingual podcast aggregator with dual-pane transcripts exists. Bridges heritage language audio gap for second-gen diaspora listeners.
+- **Monetization 4/5**: Free tier (basic player, limited transcripts). $6/mo for unlimited transcripts + offline + bilingual glossary. Podcast listeners are engaged and premium-tolerant.
+- **Domain Fit 4/5**: Complements learn.ljding.app audio learning. Shares audio pipeline with TīngPǔ (music domain). Less direct social integration than other concepts.
+
+#### 过滤 GuòLǜ (16/20)
+- **Feasibility 5/5**: Standard RSS reader patterns. Analytics engine is simple rule-based (keyword topic classification, not ML). 3-4 week MVP — fastest in domain.
+- **Differentiation 4/5**: Privacy-first + reading analytics + information diet nudges is a novel combination. Most RSS readers are feature-identical; the analytics + nudge layer is unique.
+- **Monetization 3/5**: Free core (all features). $3/mo for cross-device encrypted sync. Lower ceiling but recurring revenue from privacy-conscious power users.
+- **Domain Fit 4/5**: Strong learn.ljding.app integration (reading habits as meta-learning skill). Complements other reading apps. Radar integration for burnout detection.
+
+### Recommended Build Order (News/RSS Domain)
+1. **读报 (DúBào)** — Highest score (18), highest feasibility (5/5), 3-4 weeks MVP. Establishes reading infrastructure for ecosystem. Bilingual RSS reader is the foundational tool.
+2. **侨闻 (QiáoWén)** — Highest diaspora differentiation (5/5). Context cards are the killer feature. 4-5 weeks. Best cultural fit for Chinese-American identity.
+3. **过滤 (GuòLǜ)** — High feasibility (5/5), 3-4 weeks. Reading analytics + information diet nudges differentiates from DúBào. Best for learn meta-learning angle.
+4. **观点 (GuānDiǎn)** — Highest conceptual differentiation but most complex (5-6 weeks). Build after reading infrastructure is established.
+5. **留声 (LiúShēng)** — Audio shares infrastructure with TīngPǔ (music domain). Build after audio domain is validated.
+
+### Cross-Ecosystem Synergies (News/RSS)
+- DúBào → Passage: Articles worth saving flow to Passage for read-it-later + recall pipeline
+- DúBào → Recall: Key facts from articles flow into SRS for retention
+- DúBào → GuòLǜ: Share reading infrastructure; DúBào the reader, GuòLǜ the analytics layer
+- QiáoWén → learn.ljding.app: Context cards as mini-lessons; cultural literacy education
+- QiáoWén → GuānDiǎn: QiáoWén stories feed into perspective comparison
+- QiáoWén → hangwith.ljding.app: Share relevant news to family groups
+- GuòLǜ → Radar: Reading overload patterns feed into burnout detection
+- LiúShēng → TīngPǔ: Shared audio processing pipeline (Whisper transcription)
+
+---
+
+## Next Domain to Explore
+
+Potential domains not yet covered:
+- **Photo/Image** — photo organization, sharing, Chinese family photo albums
+- **Card Games / Board Games** — multiplayer gaming with Chinese heritage games (Mahjong, Dou Di Zhu)
+
+---
+
+## Time/Clock Domain (2026-06-20)
+
+### Time/Clock Domain
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 31 | **AnyZone Clock** — Person-based timezone converter for diaspora families | zone.ljding.app | 5 | 4 | 3 | 5 | **17** |
+| 32 | **FamilyTime Clock** — Emotional world clock for families separated by geography | clock.ljding.app | 4 | 5 | 3 | 5 | **17** |
+| 33 | **Gentle Pomodoro** — Calm bilingual focus timer with adaptive intervals | focus.ljding.app | 5 | 4 | 4 | 4 | **17** |
+| 34 | **TimeGaps** — Perception vs reality time tracking for self-awareness | perceive.ljding.app | 4 | 5 | 3 | 4 | **16** |
+| 35 | **RitualClock** — Routine app with Chinese cultural framing (时辰, 二十四节气) | ritual.ljding.app | 4 | 5 | 3 | 4 | **16** |
+| 36 | **SlowClock** — Ambient/generative art clock as meditation object | slow.ljding.app | 3 | 5 | 2 | 4 | **14** |
+
+## Scoring Rationale (Time/Clock Apps)
+
+### AnyZone Clock (17/20) — Recommended #1 Time/Clock App
+- **Feasibility 5/5**: Dead-simple concept; timezone math is solved; person-based UI is the only new complexity. Can ship MVP in days.
+- **Differentiation 4/5**: "Person-based" vs "city-based" is a meaningful distinction. Clean/simple is the differentiator in a market of cluttered timezone converters.
+- **Monetization 3/5**: Family tier ($3/mo unlimited people/groups), telco partnerships. Lower ceiling but clear path.
+- **Domain Fit 5/5**: Simple family connection tool; aligns with hangwith.ljding.app philosophy. Zero learning curve.
+
+### FamilyTime Clock (17/20)
+- **Feasibility 4/5**: Web-first is well-suited; timezone math solvable; beautiful UI is the design investment needed. 2-3 weeks MVP.
+- **Differentiation 5/5**: Emotional framing of world clock is genuinely novel. No competitor combines aesthetics + family focus + "good time to call" indicators.
+- **Monetization 3/5**: Family premium features (shared calendars, video call integration). Could partner with telecom providers.
+- **Domain Fit 5/5**: Perfect alignment with ljding.app's connection apps (learn, hangwith). Family-first is the brand direction.
+
+### Gentle Pomodoro (17/20)
+- **Feasibility 5/5**: Proven Pomodoro model; well-defined scope; can ship MVP in 1-2 weeks. Web Audio API for soundscapes is straightforward.
+- **Differentiation 4/5**: "Gentle" positioning differentiates from gamified competitors (Forest, Be Focused). Bilingual is the key differentiator.
+- **Monetization 4/5**: Premium soundscapes ($2/mo), "Focus Forever" lifetime ($9). Integration partnerships with Notion, Obsidian.
+- **Domain Fit 4/5**: Productivity adjacent; good companion to learn.ljding.app. Energy check-ins tie into Radar (wellness domain).
+
+### TimeGaps (16/20)
+- **Feasibility 4/5**: Self-awareness features are novel but buildable; weekly report generation with Chart.js is straightforward. 3-4 weeks MVP.
+- **Differentiation 5/5**: No app does "perception vs. reality" time tracking. Strong mindfulness angle with bilingual time idioms.
+- **Monetization 3/5**: Premium for advanced analytics, historical comparisons. Could expand to therapy/coaching markets ($10/mo white-label).
+- **Domain Fit 4/5**: Fits "self-knowledge" theme; complements learn.ljding.app meta-learning approach.
+
+### RitualClock (16/20)
+- **Feasibility 4/5**: Ritual creation and timing is straightforward; solar term calculation requires some math but libraries exist. 3-4 weeks MVP.
+- **Differentiation 5/5**: Cultural blending of ritual is very unique. Most habit apps are aggressively Western; this honors Eastern philosophical traditions.
+- **Monetization 3/5**: Ritual packs (premium rituals $1-3 each), ritual coaching content. Book partnerships.
+- **Domain Fit 4/5**: Mindfulness/ritual theme fits broader app family. Complements JingXin (mindfulness domain).
+
+### SlowClock (14/20)
+- **Feasibility 3/5**: Generative art requires design investment. MVP could be simple clock face; full vision takes longer.
+- **Differentiation 5/5**: "Clock as meditation object" is completely novel. No competitor does ambient web clock this way.
+- **Monetization 2/5**: Hardest to monetize; free core with premium clock faces, B2B for hotels/spas. Lowest revenue ceiling.
+- **Domain Fit 4/5**: Aesthetic/art theme; could differentiate ljding.app as "beautiful apps" brand. Establishes design leadership.
+
+### Recommended Build Order (Time/Clock Domain)
+1. **AnyZone Clock** — Fastest to ship (days), proven family utility, lowest risk. Establishes timezone infrastructure.
+2. **Gentle Pomodoro** — 1-2 weeks MVP, proven market need, "gentle" positioning is novel. Best daily utility.
+3. **FamilyTime Clock** — 2-3 weeks, strongest emotional resonance, aligns with hangwith.ljding.app philosophy.
+4. **TimeGaps** — 3-4 weeks, most novel concept, good mindfulness angle. Build after timezone base is established.
+5. **RitualClock** — 3-4 weeks, strongest cultural moat, unique bilingual ritual library. Build for cultural depth.
+6. **SlowClock** — Design investment first; best as brand-building piece after other apps establish revenue.
+
+### Cross-Ecosystem Synergies (Time/Clock)
+- AnyZone → hangwith.ljding.app: Shared family timezone awareness; "is it a good time to call" integrates with hangwith events
+- Gentle Pomodoro → learn.ljding.app: Focus timer for study sessions; energy check-ins tie into learn's learning optimization
+- Gentle Pomodoro → Radar: Energy patterns feed into burnout detection
+- FamilyTime Clock → home.ljding.app: Family schedule coordination; shared countdown to family events
+- TimeGaps → Radar: Time perception insights feed into productivity wellness
+- TimeGaps → learn.ljding.app: "How long did you study?" perception tracking for metacognitive learning
+- RitualClock → JingXin: Shared mindfulness/ritual theme; 二十四节气 awareness ties to seasonal content
+- SlowClock → JingXin: Ambient clock as meditation object; breath guide integration
+
