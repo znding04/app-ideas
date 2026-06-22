@@ -36,6 +36,8 @@ Domains ranked by opportunity score (research completed or pending).
 | **Pet Care** | 72/100 | High | High | Strong (bilingual EN/ZH pet care white space, diaspora pet ownership, web-first gap) | ✅ Researched (2026-06-17) |
 | **Gift Giving** | 80/100 | High | High | Strong (web-first gap, bilingual EN/ZH, diaspora reciprocity tracking, cross-border red envelopes) | ✅ Researched (2026-06-18) |
 | **Time/Clock** | 75/100 | High | High | Strong (web-first gap, bilingual EN/ZH, diaspora timezone coordination, family connection) | ✅ Researched (2026-06-20) |
+| **Elder Care Coordination** | 83/100 | High | High | Strong (bilingual EN/ZH gap, diaspora cross-generational care, no web-first competitor) | ✅ Researched (2026-06-21) |
+| **Digital Privacy** | 78/100 | High | High | Strong (web-first gap, bilingual EN/ZH, privacy-first, diaspora CN platform blind spot) | ✅ Researched (2026-06-22) |
 
 ### Scoring Criteria
 - **Opportunity Score**: Composite of Market Demand (30%), Feasibility (25%), Differentiation (25%), Strategic Fit (20%)
@@ -67,6 +69,8 @@ Domains ranked by opportunity score (research completed or pending).
 - [Pet Care Research (2026-06-17)](./pet-care-research-2026.md) — ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān
 - [Gift Giving Research (2026-06-18)](./gift-giving-research-2026.md) — LǐShàng, JìJié, BànShǒu Lǐ, HóngBāo Flow, SòngLǐ Scout
 - [Time/Clock Research (2026-06-20)](./time-clock-research-2026.md) — AnyZone, FamilyTime, Gentle Pomodoro, TimeGaps, RitualClock, SlowClock
+- [Elder Care Coordination Research (2026-06-21)](./elder-care-coordination-research-2026.md) — ZhaoLiaoXue, YangLaoBang, YiHuTong, AnXinJu, ZhaoLiaoQuan, ShouHuBao
+- [Digital Privacy Research (2026-06-22)](./digital-privacy-research-2026.md) — JianDu, LianWang, QuanWang, YiChan
 
 ## Productivity App Prioritization (2026-05-09)
 

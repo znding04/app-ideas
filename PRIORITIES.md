@@ -1,8 +1,8 @@
 # App Ideas Priority Ranking
 
-> Last updated: 2026-06-20 (Time/Clock session 31 — AnyZone, FamilyTime, Gentle Pomodoro, TimeGaps, RitualClock, SlowClock)
+> Last updated: 2026-06-22 (Digital Privacy session 33 — JianDu, LianWang, QuanWang, YiChan)
 > Scoring: 1-5 per category (5 = best), max total = 20
-> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**, **Finance session 24 (SubAudit, FlexBudget, PairFi, NudgeWallet, WealthPulse, 2026-06-13)**, **Music/Audio session 25 (TīngPǔ, ShēngJì, BōKè Qiáo, LiànYīn, ShēngJǐng, 2026-06-14)**, **Home Services session 26 (ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū, 2026-06-15)**, **Navigation/Wayfinding session 27 (ChinaWay, AroundCN, WalkIn, HuMini, ShuttleNav, HuWei, 2026-06-16)**, **Pet Care session 28 (ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān, 2026-06-17)**, **News/RSS session 30 (DúBào, GuānDiǎn, QiáoWén, LiúShēng, GuòLǜ, 2026-06-19)**
+> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**, **Finance session 24 (SubAudit, FlexBudget, PairFi, NudgeWallet, WealthPulse, 2026-06-13)**, **Music/Audio session 25 (TīngPǔ, ShēngJì, BōKè Qiáo, LiànYīn, ShēngJǐng, 2026-06-14)**, **Home Services session 26 (ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū, 2026-06-15)**, **Navigation/Wayfinding session 27 (ChinaWay, AroundCN, WalkIn, HuMini, ShuttleNav, HuWei, 2026-06-16)**, **Pet Care session 28 (ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān, 2026-06-17)**, **News/RSS session 30 (DúBào, GuānDiǎn, QiáoWén, LiúShēng, GuòLǜ, 2026-06-19)**, **Time/Clock session 31 (AnyZone, FamilyTime, Gentle Pomodoro, TimeGaps, RitualClock, SlowClock, 2026-06-20)**, **Elder Care session 32 (ZhaoLiaoXue, YangLaoBang, YiHuTong, AnXinJu, ZhaoLiaoQuan, ShouHuBao, 2026-06-21)**, **Digital Privacy session 33 (JianDu, LianWang, QuanWang, YiChan, 2026-06-22)**
 
 ## Overall Rankings
 
@@ -2073,4 +2073,118 @@ Potential domains not yet covered:
 - TimeGaps → learn.ljding.app: "How long did you study?" perception tracking for metacognitive learning
 - RitualClock → JingXin: Shared mindfulness/ritual theme; 二十四节气 awareness ties to seasonal content
 - SlowClock → JingXin: Ambient clock as meditation object; breath guide integration
+
+---
+
+## Elder Care Coordination Domain (Session 32, 2026-06-21)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 37 | **照料学 (ZhaoLiaoXue)** — Bilingual elder care education platform | zhaoliaoxue.ljding.app | 4 | 5 | 4 | 5 | **18** |
+| 38 | **养老帮 (YangLaoBang)** — Bilingual care coordination hub | yanglaobang.ljding.app | 4 | 5 | 3 | 5 | **17** |
+| 39 | **医护通 (YiHuTong)** — Medical interpretation assistant | yihutong.ljding.app | 3 | 5 | 4 | 4 | **16** |
+| 39 | **安心居 (AnXinJu)** — Bilingual US elder care navigation guide | anxinju.ljding.app | 4 | 5 | 3 | 4 | **16** |
+| 39 | **照料圈 (ZhaoLiaoQuan)** — Family care circle with rotation/scheduling | zhaoliaoquan.ljding.app | 4 | 5 | 3 | 4 | **16** |
+| 42 | **守护宝 (ShouHuBao)** — Remote senior monitoring dashboard | shouhubao.ljding.app | 4 | 4 | 3 | 4 | **15** |
+
+### Scoring Rationale (Elder Care Apps)
+
+#### 照料学 (ZhaoLiaoXue) (18/20) — Recommended #1 Elder Care App
+- **Feasibility 4/5**: Video + article content platform, straightforward MVP. 3-4 weeks.
+- **Differentiation 5/5**: No bilingual elder care education exists. Complete white space for Chinese-American caregivers.
+- **Monetization 4/5**: Free core + $6/mo for certification courses. Caregivers are motivated learners.
+- **Domain Fit 5/5**: Perfect learn.ljding.app ecosystem extension — same format, different subject matter. Natural integration with yanglaobang.ljding.app care plans.
+
+#### 养老帮 (YangLaoBang) (17/20)
+- **Feasibility 4/5**: D1 for care plans, KV for sessions. 4-5 weeks MVP.
+- **Differentiation 5/5**: No bilingual EN/ZH care coordination platform exists. Complete white space.
+- **Monetization 3/5**: Free core + $5/mo/care recipient for premium. Lower ceiling but steady recurring.
+- **Domain Fit 5/5**: Core to ljding.app diaspora mission. Integrates with learn (care education) and hangwith (family social).
+
+#### 医护通 (YiHuTong) (16/20)
+- **Feasibility 3/5**: Medical content accuracy critical. 5-6 weeks MVP.
+- **Differentiation 5/5**: No bilingual medical terminology tool for seniors exists. Genuine white space.
+- **Monetization 4/5**: $4/mo premium for detailed translations + prescription lookup.
+- **Domain Fit 4/5**: Complements YangLaoBang; learn.ljding.app for medical education modules.
+
+#### 安心居 (AnXinJu) (16/20)
+- **Feasibility 4/5**: Content curation + directory. 4 weeks MVP.
+- **Differentiation 5/5**: No bilingual elder care navigation guide exists.
+- **Monetization 3/5**: Free content + $4/mo for personalized recommendations.
+- **Domain Fit 4/5**: Education-focused; learn.ljding.app sister product.
+
+#### 照料圈 (ZhaoLiaoQuan) (16/20)
+- **Feasibility 4/5**: D1 for family structures + care tasks. 3-4 weeks MVP.
+- **Differentiation 5/5**: No family role-rotation or decision-making tool exists.
+- **Monetization 3/5**: Free + $3/mo for advanced coordination.
+- **Domain Fit 4/5**: Social coordination for diaspora families; hangwith integration.
+
+#### 守护宝 (ShouHuBao) (15/20)
+- **Feasibility 4/5**: IoT integrations + manual check-ins. 4-5 weeks MVP.
+- **Differentiation 4/5**: No bilingual remote monitoring tool exists.
+- **Monetization 3/5**: Free basic + $5/mo for smart device integration.
+- **Domain Fit 4/5**: Complements care coordination features; transpacific family use case.
+
+## Recommended Build Order (Elder Care)
+
+1. **照料学 (ZhaoLiaoXue)** — Content platform with lowest risk; natural learn.ljding.app extension; 3-4 week MVP
+2. **养老帮 (YangLaoBang)** — Core coordination hub with highest daily utility; 4-5 weeks; ties ecosystem together
+3. **医护通 (YiHuTong)** — High differentiation; complements YangLaoBang; 5-6 weeks
+4. **安心居 (AnXinJu)** — Content + directory play; 4 weeks; natural learn extension
+5. **照料圈 (ZhaoLiaoQuan)** — Unique family coordination; 3-4 weeks; strong hangwith integration
+6. **守护宝 (ShouHuBao)** — IoT complexity highest; defer until other elder care apps established
+
+---
+
+## Digital Privacy Domain (Session 33, 2026-06-22)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 43 | **监督 (JianDu)** — Privacy health dashboard with breach + password + tracker monitoring | jiandu.ljding.app | 5 | 5 | 4 | 5 | **19** |
+| 44 | **连网 (LianWang)** — Cross-platform account inventory for EN + ZH services | lianwang.ljding.app | 4 | 5 | 3 | 5 | **17** |
+| 45 | **全网 (QuanWang)** — Data broker presence scanner with bilingual broker database | quanwang.ljding.app | 3 | 5 | 4 | 4 | **16** |
+| 46 | **遗产 (YiChan)** — Digital legacy planner with CN platform inheritance guides | yichan.ljding.app | 4 | 5 | 3 | 4 | **16** |
+
+### Scoring Rationale (Digital Privacy Apps)
+
+#### 监督 (JianDu) (19/20) — Recommended #1 Digital Privacy App
+- **Feasibility 5/5**: HIBP API integration is straightforward; password health via voluntary entry; tracker visualization via browser extension API. 4-6 weeks MVP.
+- **Differentiation 5/5**: No bilingual EN/ZH privacy dashboard exists. Complete white space — existing tools (1Password, Norton) are English-only and mobile-first.
+- **Monetization 4/5**: Free core + $3/mo premium for unlimited email monitoring + weekly digests. Family tier at $5/mo. Clear upgrade path.
+- **Domain Fit 5/5**: Privacy-first philosophy aligns with entire ljding.app ecosystem. Bilingual support is core to diaspora mission. Could integrate with learn.ljding.app for privacy education content.
+
+#### 连网 (LianWang) (17/20)
+- **Feasibility 4/5**: Manual account entry (no scraping) — low technical complexity. Data residency info is research-based. 3-4 weeks MVP.
+- **Differentiation 5/5**: No competitor addresses cross-cultural account management for diaspora Chinese. Complete white space.
+- **Monetization 3/5**: Free tier (10 accounts) + $4/mo premium (unlimited + family sharing). Lower ceiling but clear utility.
+- **Domain Fit 5/5**: Addresses unique diaspora gap — managing accounts on both Western and Chinese platforms in one place. Could extend to elder care (managing parent's accounts).
+
+#### 全网 (QuanWang) (16/20)
+- **Feasibility 3/5**: Requires building/maintaining broker database (ongoing research). Automated removal requires compliance with each broker's specific process. 6-8 weeks MVP.
+- **Differentiation 5/5**: First bilingual broker database covering both Western and Chinese data brokers. Genuinely novel for diaspora community.
+- **Monetization 4/5**: $5/mo premium for full scan + automated removal. Family protection at $8/mo.
+- **Domain Fit 4/5**: Strong privacy positioning. Could integrate with identity documentation apps (proof of identity for removals).
+
+#### 遗产 (YiChan) (16/20)
+- **Feasibility 4/5**: Data storage and encryption required. CN platform inheritance info requires ongoing research. Legal disclaimer needed. 4-6 weeks MVP.
+- **Differentiation 5/5**: No digital estate tool covers Chinese platform inheritance. Complete white space.
+- **Monetization 3/5**: $4/mo premium for document vault + CN platform guides. Family legacy at $6/mo.
+- **Domain Fit 4/5**: Natural extension of LianWang (account inventory). Complements elder care apps. High emotional value.
+
+## Recommended Build Order (Digital Privacy)
+
+1. **监督 (JianDu)** — Fastest to build (4-6 weeks), highest score (19), strongest differentiation. Establishes privacy dashboard infrastructure.
+2. **连网 (LianWang)** — Unique diaspora gap (3-4 weeks). Shares account inventory infrastructure with JianDu. Addresses CN platform blind spot.
+3. **遗产 (YiChan)** — High emotional value (4-6 weeks). Builds on LianWang's account inventory. CN platform inheritance guides are unique.
+4. **全网 (QuanWang)** — Most complex (6-8 weeks). Requires ongoing broker database maintenance. Highest long-term monetization potential.
+
+### Cross-Ecosystem Synergies (Digital Privacy)
+
+- JianDu → learn.ljding.app: Privacy education content; "how to protect your data" learning modules
+- JianDu → LianWang: Shared account tracking; breach alerts trigger account review
+- LianWang → YiChan: Account inventory flows into digital legacy planning
+- LianWang → YangLaoBang: Managing parent's accounts as part of elder care coordination
+- QuanWang → JianDu: Data broker exposure feeds into overall privacy score
+- YiChan → YangLaoBang: Digital estate planning for elderly users and their families
+- YiChan → LianWang: Legacy instructions extend account inventory with next-of-kin access
 
