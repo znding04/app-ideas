@@ -1,8 +1,8 @@
 # App Ideas Priority Ranking
 
-> Last updated: 2026-06-22 (Digital Privacy session 33 — JianDu, LianWang, QuanWang, YiChan)
+> Last updated: 2026-06-24 (Wedding & Events session 35 — Xi, FuYan, YuanDing, HongFeng, LiDan)
 > Scoring: 1-5 per category (5 = best), max total = 20
-> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**, **Finance session 24 (SubAudit, FlexBudget, PairFi, NudgeWallet, WealthPulse, 2026-06-13)**, **Music/Audio session 25 (TīngPǔ, ShēngJì, BōKè Qiáo, LiànYīn, ShēngJǐng, 2026-06-14)**, **Home Services session 26 (ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū, 2026-06-15)**, **Navigation/Wayfinding session 27 (ChinaWay, AroundCN, WalkIn, HuMini, ShuttleNav, HuWei, 2026-06-16)**, **Pet Care session 28 (ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān, 2026-06-17)**, **News/RSS session 30 (DúBào, GuānDiǎn, QiáoWén, LiúShēng, GuòLǜ, 2026-06-19)**, **Time/Clock session 31 (AnyZone, FamilyTime, Gentle Pomodoro, TimeGaps, RitualClock, SlowClock, 2026-06-20)**, **Elder Care session 32 (ZhaoLiaoXue, YangLaoBang, YiHuTong, AnXinJu, ZhaoLiaoQuan, ShouHuBao, 2026-06-21)**, **Digital Privacy session 33 (JianDu, LianWang, QuanWang, YiChan, 2026-06-22)**
+> Domains covered: Productivity (sess. 1), Health & Wellness (sess. 2), Mindfulness & Spiritual (sess. 3), Education (sess. 4), Career (sess. 5), Creativity (sess. 6), Finance (sess. 7), Sleep & Recovery (sess. 8), Social/Community (sess. 9), Food & Kitchen (sess. 10), Travel (sess. 11), Decision-Making (sess. 12), Parenting (sess. 13), Knowledge/PKM (sess. 14), Legal Navigation (sess. 15), Relationships/Dating (sess. 16), Environmental/Green Living (sess. 17), Gaming/Entertainment (sess. 18), Sports & Fitness (sess. 19), Communication (sess. 20), Productivity session 21 (Verdict/Cadence/Switchboard, 2026-06-09), **Home/Real Estate session 22 (JiaYou/ZhuJia/RoomBridge, 2026-06-11)**, **Relationships & Network Maintenance session 23 (nurture/keepclose/circles/together/weave, 2026-06-12)**, **Finance session 24 (SubAudit, FlexBudget, PairFi, NudgeWallet, WealthPulse, 2026-06-13)**, **Music/Audio session 25 (TīngPǔ, ShēngJì, BōKè Qiáo, LiànYīn, ShēngJǐng, 2026-06-14)**, **Home Services session 26 (ZhǎoGōng, ShǒuJiā, JiāHù, HǎoWū, 2026-06-15)**, **Navigation/Wayfinding session 27 (ChinaWay, AroundCN, WalkIn, HuMini, ShuttleNav, HuWei, 2026-06-16)**, **Pet Care session 28 (ChǒngXué, ChǒngBàn, KuàChǒng, ZhǎoChǒng, MáoQuān, 2026-06-17)**, **News/RSS session 30 (DúBào, GuānDiǎn, QiáoWén, LiúShēng, GuòLǜ, 2026-06-19)**, **Time/Clock session 31 (AnyZone, FamilyTime, Gentle Pomodoro, TimeGaps, RitualClock, SlowClock, 2026-06-20)**, **Elder Care session 32 (ZhaoLiaoXue, YangLaoBang, YiHuTong, AnXinJu, ZhaoLiaoQuan, ShouHuBao, 2026-06-21)**, **Digital Privacy session 33 (JianDu, LianWang, QuanWang, YiChan, 2026-06-22)**, **Volunteer session 34 (YiXin, ShiShu, ChuánChéng, QiānShǒu, YiGongBan, 2026-06-23)**
 
 ## Overall Rankings
 
@@ -2187,4 +2187,119 @@ Potential domains not yet covered:
 - QuanWang → JianDu: Data broker exposure feeds into overall privacy score
 - YiChan → YangLaoBang: Digital estate planning for elderly users and their families
 - YiChan → LianWang: Legacy instructions extend account inventory with next-of-kin access
+
+---
+
+## Volunteer & Community Impact Domain (Session 34, 2026-06-23)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 47 | **义心 (YiXin)** | yixin.ljding.app | 5 | 5 | 4 | 5 | **19** |
+| 48 | **时数 (ShiShu)** | shishu.ljding.app | 5 | 4 | 4 | 5 | **18** |
+| 49 | **传承 (ChuánChéng)** | chuancheng.ljding.app | 4 | 5 | 4 | 5 | **18** |
+| 50 | **牵手 (QiānShǒu)** | qianshou.ljding.app | 4 | 4 | 4 | 5 | **17** |
+| 51 | **义工板 (YiGongBan)** | yigongban.ljding.app | 3 | 5 | 4 | 4 | **16** |
+
+### Scoring Rationale (Volunteer & Community Impact Apps)
+
+#### 义心 (YiXin) (19/20) — Recommended #1 Volunteer App
+- **Feasibility 5/5**: Opportunity CRUD + matching algorithm + bilingual UI. 4-5 weeks MVP. No novel ML needed.
+- **Differentiation 5/5**: No web-first bilingual volunteer platform exists. Heritage focus is completely unoccupied white space.
+- **Monetization 4/5**: $8/mo for orgs to post with diaspora-friendly badge + candidate matching. Free for volunteers. Org subscription model proven by VolunteerMatch.
+- **Domain Fit 5/5**: Strongest integration: learn.ljding.app (cultural competency training), hangwith.ljding.app (group volunteering), privacy-first values.
+
+#### 时数 (ShiShu) (18/20)
+- **Feasibility 5/5**: CRUD + local storage + PDF generation. 3-4 weeks MVP. Simplest technical scope in domain.
+- **Differentiation 4/5**: Privacy-first hour tracking exists (manual spreadsheets). Impact narrative visualization is novel.
+- **Monetization 4/5**: $5/mo for cloud sync + certificate analytics + org verification API. Free tier covers core use.
+- **Domain Fit 5/5**: Perfect privacy-first fit. Works as standalone or with any volunteer platform. learn.ljding.app for impact education.
+
+#### 传承 (ChuánChéng) (18/20)
+- **Feasibility 4/5**: Matching algorithm + session scheduling + video link integration. 4-5 weeks MVP.
+- **Differentiation 5/5**: Heritage language tutoring matching is completely unoccupied. No web platform does bilingual EN/ZH tutoring marketplace.
+- **Monetization 4/5**: $8/mo for tutors (premium matching + visibility), $5/mo for learners (session tracking + content). Platform takes 20% cut.
+- **Domain Fit 5/5**: Deepest learn.ljding.app integration (heritage language learning as core). Bridges tutoring + education + cultural preservation.
+
+#### 牵手 (QiānShǒu) (17/20)
+- **Feasibility 4/5**: Matching + scheduling + shared journal + video integration. 4-5 weeks MVP.
+- **Differentiation 4/5**: Cross-generational diaspora care is unique. Visiting Companions apps don't serve technology tutoring angle.
+- **Monetization 4/5**: $10/mo family subscription for coordination dashboard + volunteer backup. Free for volunteers.
+- **Domain Fit 5/5**: Best elder-care session 32 integration (YiHuTong, AnXinJu). Technology tutoring bridges to learn.ljding.app digital literacy.
+
+#### 义工板 (YiGongBan) (16/20)
+- **Feasibility 3/5**: Multi-user system + org dashboard + PDF generation. 5-6 weeks MVP. More complex than others.
+- **Differentiation 5/5**: SMB-focused ESG volunteer board is completely unoccupied. GivePulse/Benevity target enterprises.
+- **Monetization 4/5**: $15/mo per company (reasonable for SMBs). Free for volunteer individuals.
+- **Domain Fit 4/5**: Fits ecosystem privacy-first values. Could integrate with learn.ljding.app for volunteer education modules.
+
+## Recommended Build Order (Volunteer & Community Impact)
+
+1. **时数 (ShiShu)** — Smallest scope (3-4 weeks), solves immediate pain, standalone tool works without network effects
+2. **义心 (YiXin)** — Once ShiShu establishes user base, add matching layer. Heritage angle is strongest differentiator
+3. **传承 (ChuánChéng)** — Heritage language tutoring is high-demand, high-revenue, deep ecosystem fit
+4. **牵手 (QiānShǒu)** — Cross-generational care is emotional and expands Session 32 elder care work
+5. **义工板 (YiGongBan)** — B2B complexity, but highest long-term revenue potential
+
+### Cross-Ecosystem Synergies (Volunteer & Community Impact)
+
+- YiXin → learn.ljding.app: Cultural competency training modules; heritage education content
+- YiXin → hangwith.ljding.app: Group volunteer coordination; social accountability for volunteer commitments
+- ShiShu → YiXin: Hour tracking integrates as volunteer impact dashboard
+- ShiShu → ChuánChéng: Session logging for tutoring hours
+- ChuánChéng → learn.ljding.app: Heritage language learning is core educational content
+- ChuánChéng → YiXin: Tutoring opportunities feed into volunteer matching
+- QiānShǒu → YangLaoBang: Elder care volunteer coordination for Session 32 apps
+- QiānShǒu → learn.ljding.app: Digital literacy tutoring for elders
+- YiGongBan → learn.ljding.app: Volunteer education content for corporate programs
+
+### Wedding & Events Domain (2026-06-24)
+
+| Rank | App | Subdomain | Feasibility | Differentiation | Monetization | Domain Fit | **Total** |
+|------|-----|-----------|:-----------:|:---------------:|:------------:|:----------:|:---------:|
+| 1 | **囍 (Xi)** — Bicultural wedding planner with bilingual timeline | xi.ljding.app | 4 | 5 | 4 | 5 | **18** |
+| 2 | **红封 (HongFeng)** — Red envelope etiquette guide + tracker | hongfeng.ljding.app | 5 | 5 | 3 | 5 | **18** |
+| 3 | **赴宴 (FuYan)** — Guest experience web portal | fuyan.ljding.app | 5 | 4 | 4 | 4 | **17** |
+| 4 | **缘定 (YuanDing)** — Destination wedding hub | yuanding.ljding.app | 3 | 5 | 4 | 4 | **16** |
+| 5 | **礼单 (LiDan)** — Unified wedding registry | lidan.ljding.app | 4 | 3 | 4 | 4 | **15** |
+
+## Scoring Rationale (Wedding & Events)
+
+### 囍 (Xi) (18/20) — Recommended #1 Wedding & Events App
+- **Feasibility 4/5**: Guest list + timeline + invitation builder is 8-10 weeks MVP. Bilingual content curation is the main complexity.
+- **Differentiation 5/5**: No web-first bilingual wedding planner exists. The Knot/Zola/WeddingWire are English-only; Chinese apps (婚礼纪) are mobile-only and China-focused. Genuine white space.
+- **Monetization 4/5**: Free tier with 100 guests/10 vendors; $15/mo unlimited. Reasonable conversion from free given wedding budget sizes.
+- **Domain Fit 5/5**: Strong — integrates with learn.ljding.app (cultural traditions course), hangwith.ljding.app (wedding party coordination), privacy-first philosophy.
+
+### 红封 (HongFeng) (18/20) — Recommended #2 Wedding & Events App
+- **Feasibility 5/5**: Tracker is straightforward; content guide requires cultural expertise but is write-once. 4-6 weeks MVP.
+- **Differentiation 5/5**: No standalone web app for red envelope tracking exists. This is genuinely novel — not incremental improvement.
+- **Monetization 3/5**: Tracker is utility; can monetize via premium tracker features. Guide portion could partner with cultural institutions.
+- **Domain Fit 5/5**: Deep diaspora fit — solves a real pain point for Chinese diaspora navigating family financial expectations.
+
+### 赴宴 (FuYan) (17/20)
+- **Feasibility 5/5**: Wedding website + RSVP is well-understood. 6-8 weeks MVP.
+- **Differentiation 4/5**: Web-first guest experience is differentiated from Joy (mobile-first). Focus on elegance and accessibility.
+- **Monetization 4/5**: $10/event basic; $30/event premium with analytics. Per-event model works well for one-time use case.
+- **Domain Fit 4/5**: Good fit for privacy-first philosophy — no account required for guests to RSVP.
+
+### 缘定 (YuanDing) (16/20)
+- **Feasibility 3/5**: Venue discovery + travel coordination + vendor marketplace is complex. Higher scope risk.
+- **Differentiation 5/5**: No competitor combines venue + travel + local vendor. Strong differentiation for diaspora destination weddings.
+- **Monetization 4/5**: Venue commission 5% + featured placement. High revenue potential if executed.
+- **Domain Fit 4/5**: Strong for diaspora couples returning to Asia for destination weddings.
+
+### 礼单 (LiDan) (15/20)
+- **Feasibility 4/5**: Registry aggregation is technically moderate; gift tracking is straightforward. 6-8 weeks.
+- **Differentiation 3/5**: Zola and other registries already exist. Privacy-first angle is differentiator but may not be compelling enough.
+- **Monetization 4/5**: 1% gift fee + $10/mo premium. Wedding gift volume makes this viable.
+- **Domain Fit 4/5**: Good fit for privacy-first ecosystem. Registry-agnostic approach is aligned with user sovereignty.
+
+## Cross-Ecosystem Synergies (Wedding & Events)
+
+- Xi → learn.ljding.app: Cultural traditions course (tea ceremony, 红包 etiquette, Chinese wedding customs)
+- Xi → hangwith.ljding.app: Wedding party coordination (bachelor/bachelorette planning, guest coordination)
+- HongFeng → learn.ljding.app: Cultural etiquette content (gift-giving customs, family financial traditions)
+- FuYan → hangwith.ljding.app: Wedding guest experience shares infrastructure with social events
+- YuanDing → travel.ljding.app: Destination wedding naturally extends travel planning tools
+- LiDan → finance.ljding.app: Wedding budget tracking is personal finance adjacent
 

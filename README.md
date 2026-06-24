@@ -38,6 +38,8 @@ Domains ranked by opportunity score (research completed or pending).
 | **Time/Clock** | 75/100 | High | High | Strong (web-first gap, bilingual EN/ZH, diaspora timezone coordination, family connection) | ✅ Researched (2026-06-20) |
 | **Elder Care Coordination** | 83/100 | High | High | Strong (bilingual EN/ZH gap, diaspora cross-generational care, no web-first competitor) | ✅ Researched (2026-06-21) |
 | **Digital Privacy** | 78/100 | High | High | Strong (web-first gap, bilingual EN/ZH, privacy-first, diaspora CN platform blind spot) | ✅ Researched (2026-06-22) |
+| **Volunteer & Community Impact** | 82/100 | High | High | Strong (web-first gap, bilingual EN/ZH, diaspora heritage volunteer, impact tracking white space) | ✅ Researched (2026-06-23) |
+| **Wedding & Events Planning** | 79/100 | High | High | Strong (web-first gap, bilingual EN/ZH, bicultural diaspora, no web-first bilingual competitor) | ✅ Researched (2026-06-24) |
 
 ### Scoring Criteria
 - **Opportunity Score**: Composite of Market Demand (30%), Feasibility (25%), Differentiation (25%), Strategic Fit (20%)
@@ -71,6 +73,10 @@ Domains ranked by opportunity score (research completed or pending).
 - [Time/Clock Research (2026-06-20)](./time-clock-research-2026.md) — AnyZone, FamilyTime, Gentle Pomodoro, TimeGaps, RitualClock, SlowClock
 - [Elder Care Coordination Research (2026-06-21)](./elder-care-coordination-research-2026.md) — ZhaoLiaoXue, YangLaoBang, YiHuTong, AnXinJu, ZhaoLiaoQuan, ShouHuBao
 - [Digital Privacy Research (2026-06-22)](./digital-privacy-research-2026.md) — JianDu, LianWang, QuanWang, YiChan
+- [Volunteer & Community Impact Research (2026-06-23)](./volunteer-community-research-2026.md) — yixin, shishu, chuancheng, qianshou, yigongban
+- [Volunteer & Community Impact Concepts (2026-06-23)](./volunteer-community-concepts-2026.md) — 5 app concepts with scoring
+- [Wedding & Events Research (2026-06-24)](./wedding-events-research-2026.md) — Xi, FuYan, YuanDing, HongFeng, LiDan
+- [Wedding & Events Concepts (2026-06-24)](./wedding-events-new-concepts-2026.md) — 5 app concepts with scoring
 
 ## Productivity App Prioritization (2026-05-09)
 
@@ -143,4 +149,4 @@ Domains ranked by opportunity score (research completed or pending).
 5. Evaluation against strategic fit with existing apps
 
 ---
-*Last updated: June 2026 (Time/Clock domain added 2026-06-20)*
+*Last updated: June 2026 (Wedding & Events Planning domain added 2026-06-24)*
